@@ -1,0 +1,13 @@
+www.how.org.pk
+how.org.pk
+ns2.how.org.pk
+mail.how.org.pk
+store.how.org.pk
+ipv4.how.org.pk
+ftp.how.org.pk
+mssql.how.org.pk
+lists.how.org.pk
+webmail.how.org.pk
+ns1.how.org.pk
+howsms.how.org.pk
+jmtserve.how.org.pk

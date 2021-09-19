@@ -1,0 +1,14 @@
+av.eservices.cdcaccess.com.pk
+eservices.eservices.cdcaccess.com.pk
+av2.eservices.cdcaccess.com.pk
+www.eservices.cdcaccess.com.pk
+mail.eservices.cdcaccess.com.pk
+csp.eservices.cdcaccess.com.pk
+ftp.eservices.cdcaccess.com.pk
+uat.eservices.cdcaccess.com.pk
+eipo.eservices.cdcaccess.com.pk
+mx4.eservices.cdcaccess.com.pk
+cissii.eservices.cdcaccess.com.pk
+webmail.eservices.cdcaccess.com.pk
+eservices.cdcaccess.com.pk
+ns.eservices.cdcaccess.com.pk

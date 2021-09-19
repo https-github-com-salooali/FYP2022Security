@@ -1,0 +1,8 @@
+mail.punjablaws.gov.pk
+ns-1.punjablaws.gov.pk
+ns-2.punjablaws.gov.pk
+ns-3.punjablaws.gov.pk
+ns-4.punjablaws.gov.pk
+punjablaws.gov.pk
+webmaster.punjablaws.gov.pk
+www.punjablaws.gov.pk

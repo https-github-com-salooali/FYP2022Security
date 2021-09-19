@@ -1,0 +1,15 @@
+mail.purchase.com.pk
+webmail.purchase.com.pk
+cpanel.purchase.com.pk
+purchase.com.pk
+www.purchase.com.pk
+imap.purchase.com.pk
+pop3.purchase.com.pk
+www.test.purchase.com.pk
+test.purchase.com.pk
+ftp.purchase.com.pk
+cpcalendars.new.purchase.com.pk
+whm.purchase.com.pk
+www.new.purchase.com.pk
+webdisk.purchase.com.pk
+new.purchase.com.pk

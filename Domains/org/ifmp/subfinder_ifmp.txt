@@ -1,0 +1,16 @@
+whm.ifmp.org.pk
+cpanel.ifmp.org.pk
+webmail.lms.ifmp.org.pk
+www.lms.ifmp.org.pk
+webdisk.ifmp.org.pk
+webdisk.lms.ifmp.org.pk
+www.lms.ifmp.org.pk.ifmp.org.pk
+www.ifmp.org.pk
+ftp.ifmp.org.pk
+cpcalendars.ifmp.org.pk
+cpcalendars.lms.ifmp.org.pk
+cpcontacts.ifmp.org.pk
+lms.ifmp.org.pk
+webmail.ifmp.org.pk
+cpanel.lms.ifmp.org.pk
+mail.ifmp.org.pk

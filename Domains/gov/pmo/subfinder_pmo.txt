@@ -1,0 +1,14 @@
+pm100days.pmo.gov.pk
+pmdu.pmo.gov.pk
+was.pmo.gov.pk
+gitlab-pmdu.pmo.gov.pk
+mss.pmo.gov.pk
+test-pmdu.pmo.gov.pk
+mail.pmo.gov.pk
+www.pmo.gov.pk
+youth.pmo.gov.pk
+pmybl.pmo.gov.pk
+staging.pmo.gov.pk
+www.youth.pmo.gov.pk
+webmail.pmo.gov.pk
+www.pmdu.pmo.gov.pk

@@ -1,0 +1,11 @@
+autodiscover.sidcl.com.pk
+cpanel.sidcl.com.pk
+cpcalendars.sidcl.com.pk
+cpcontacts.sidcl.com.pk
+ftp.sidcl.com.pk
+mail.sidcl.com.pk
+sidcl.com.pk
+webdisk.sidcl.com.pk
+webmail.sidcl.com.pk
+www.mail.sidcl.com.pk
+www.sidcl.com.pk

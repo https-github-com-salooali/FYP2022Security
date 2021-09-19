@@ -1,0 +1,13 @@
+www.cdc.net.pk
+newsite.cdc.net.pk
+cpcalendars.cdc.net.pk
+mail.cdc.net.pk
+reports.cdc.net.pk
+webdisk.cdc.net.pk
+webmail.cdc.net.pk
+cpcontacts.cdc.net.pk
+pop3.cdc.net.pk
+autodiscover.cdc.net.pk
+cpanel.cdc.net.pk
+www.reports.cdc.net.pk
+www.newsite.cdc.net.pk

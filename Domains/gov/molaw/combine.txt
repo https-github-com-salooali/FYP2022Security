@@ -1,0 +1,7 @@
+beta.molaw.gov.pk
+cms.beta.molaw.gov.pk
+cms.molaw.gov.pk
+mail.molaw.gov.pk
+molaw.gov.pk
+webmail.molaw.gov.pk
+www.molaw.gov.pk

@@ -1,0 +1,9 @@
+webmail.apns.com.pk
+cpcontacts.apns.com.pk
+cpanel.apns.com.pk
+mail.apns.com.pk
+ftp.apns.com.pk
+whm.apns.com.pk
+webdisk.apns.com.pk
+cpcalendars.apns.com.pk
+www.apns.com.pk

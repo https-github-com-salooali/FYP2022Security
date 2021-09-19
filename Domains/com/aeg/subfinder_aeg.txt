@@ -1,0 +1,16 @@
+mail.aeg.com.pk
+ftp.aeg.com.pk
+www.mail.aeg.com.pk
+profile.aeg.com.pk
+webmail.aeg.com.pk
+sametime.aeg.com.pk
+www.aeg.com.pk
+aegmaildr.aeg.com.pk
+smtp-gw.aeg.com.pk
+frenchvisa.aeg.com.pk
+mssql.aeg.com.pk
+ipv4.aeg.com.pk
+aeg.com.pk
+dubaivisa.aeg.com.pk
+connect.aeg.com.pk
+lists.aeg.com.pk

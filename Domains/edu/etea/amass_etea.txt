@@ -1,0 +1,10 @@
+ns2.etea.edu.pk
+ns1.etea.edu.pk
+dashboard1.etea.edu.pk
+www.etea.edu.pk
+server1.etea.edu.pk
+server2.etea.edu.pk
+apply.etea.edu.pk
+etea.edu.pk
+mail.etea.edu.pk
+www.apply.etea.edu.pk

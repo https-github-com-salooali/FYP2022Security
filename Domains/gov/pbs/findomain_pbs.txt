@@ -1,0 +1,7 @@
+www.pbs.gov.pk
+webmail.pbs.gov.pk
+redmine.pbs.gov.pk
+pbs.gov.pk
+data.pbs.gov.pk
+mail.pbs.gov.pk
+dev.pbs.gov.pk

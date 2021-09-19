@@ -1,0 +1,11 @@
+autodiscover.usf.org.pk
+cpanel.usf.org.pk
+ftp.usf.org.pk
+lists.usf.org.pk
+lms.usf.org.pk
+mail.usf.org.pk
+ns.usf.org.pk
+usf.org.pk
+webmail.usf.org.pk
+www.lms.usf.org.pk
+www.usf.org.pk

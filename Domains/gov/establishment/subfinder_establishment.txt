@@ -1,0 +1,13 @@
+mail.msw.establishment.gov.pk
+old.establishment.gov.pk
+www.msw.establishment.gov.pk
+webmail.establishment.gov.pk
+bucket.establishment.gov.pk
+email.establishment.gov.pk
+msw.establishment.gov.pk
+www.establishment.gov.pk
+mail.pparc.establishment.gov.pk
+mail.establishment.gov.pk
+portal.establishment.gov.pk
+pparc.establishment.gov.pk
+cms.establishment.gov.pk

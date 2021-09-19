@@ -1,0 +1,6 @@
+cfmsd.ihc.gov.pk
+mail.ihc.gov.pk
+mail-f.ihc.gov.pk
+webmail.ihc.gov.pk
+www.ihc.gov.pk
+mis.ihc.gov.pk

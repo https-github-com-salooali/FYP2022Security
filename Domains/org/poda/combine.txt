@@ -1,0 +1,9 @@
+cpanel.poda.org.pk
+ftp.poda.org.pk
+localhost.poda.org.pk
+mail.poda.org.pk
+poda.org.pk
+webdisk.poda.org.pk
+webmail.poda.org.pk
+whm.poda.org.pk
+www.poda.org.pk

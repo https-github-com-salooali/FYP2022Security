@@ -1,0 +1,9 @@
+cpanel.vitalpakistan.org.pk
+cpcalendars.vitalpakistan.org.pk
+cpcontacts.vitalpakistan.org.pk
+ftp.vitalpakistan.org.pk
+mail.vitalpakistan.org.pk
+vitalpakistan.org.pk
+webdisk.vitalpakistan.org.pk
+webmail.vitalpakistan.org.pk
+www.vitalpakistan.org.pk

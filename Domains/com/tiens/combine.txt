@@ -1,0 +1,12 @@
+ftp.tiens.com.pk
+ipv4.tiens.com.pk
+lists.tiens.com.pk
+mail2.tiens.com.pk
+mail.tiens.com.pk
+ns1.tiens.com.pk
+ns2.tiens.com.pk
+ns.tiens.com.pk
+old.tiens.com.pk
+tiens.com.pk
+webmail.tiens.com.pk
+www.tiens.com.pk

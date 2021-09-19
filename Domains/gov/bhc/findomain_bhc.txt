@@ -1,0 +1,17 @@
+www.api.bhc.gov.pk
+cpanel.bhc.gov.pk
+www.portal.bhc.gov.pk
+webdisk.bhc.gov.pk
+www.api2.bhc.gov.pk
+cpcalendars.bhc.gov.pk
+autodiscover.bhc.gov.pk
+api.bhc.gov.pk
+mail.bhc.gov.pk
+www.bhc.gov.pk
+app.bhc.gov.pk
+webmail.bhc.gov.pk
+bhc.gov.pk
+api2.bhc.gov.pk
+www.app.bhc.gov.pk
+cpcontacts.bhc.gov.pk
+portal.bhc.gov.pk

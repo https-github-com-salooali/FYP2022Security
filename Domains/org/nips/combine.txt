@@ -1,0 +1,11 @@
+autodiscover.nips.org.pk
+cpanel.nips.org.pk
+cpcalendars.nips.org.pk
+cpcontacts.nips.org.pk
+ftp.nips.org.pk
+mail.nips.org.pk
+nips.org.pk
+webdisk.nips.org.pk
+webmail.nips.org.pk
+whm.nips.org.pk
+www.nips.org.pk

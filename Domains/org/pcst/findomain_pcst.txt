@@ -1,0 +1,4 @@
+server.pcst.org.pk
+pcst.org.pk
+www.pcst.org.pk
+mail.pcst.org.pk

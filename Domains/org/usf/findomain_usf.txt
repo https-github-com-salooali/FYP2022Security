@@ -1,0 +1,7 @@
+webmail.usf.org.pk
+autodiscover.usf.org.pk
+www.lms.usf.org.pk
+usf.org.pk
+mail.usf.org.pk
+lms.usf.org.pk
+www.usf.org.pk

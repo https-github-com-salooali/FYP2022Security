@@ -1,0 +1,16 @@
+webmail.agriauto.com.pk
+agriauto.com.pk
+ftp.agriauto.com.pk
+cpcontacts.agriauto.com.pk
+sip.agriauto.com.pk
+www.agriauto.com.pk
+cpcalendars.agriauto.com.pk
+telecom.agriauto.com.pk
+autodiscover.agriauto.com.pk
+whm.agriauto.com.pk
+gmail.agriauto.com.pk
+mail.agriauto.com.pk
+lyncdiscover.agriauto.com.pk
+localhost.agriauto.com.pk
+cpanel.agriauto.com.pk
+webdisk.agriauto.com.pk

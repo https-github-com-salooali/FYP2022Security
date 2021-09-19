@@ -1,0 +1,7 @@
+ftp.pakoil.com.pk
+mail.pakoil.com.pk
+www.pakoil.com.pk
+jobs.pakoil.com.pk
+webmail.pakoil.com.pk
+lists.pakoil.com.pk
+mssql.pakoil.com.pk

@@ -1,0 +1,9 @@
+navttc.gov.pk
+lms.navttc.gov.pk
+mail.navttc.gov.pk
+tp.navttc.gov.pk
+webmail.navttc.gov.pk
+ip.navttc.gov.pk
+gpiw.navttc.gov.pk
+www.navttc.gov.pk
+ocms.navttc.gov.pk

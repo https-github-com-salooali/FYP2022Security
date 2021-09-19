@@ -1,0 +1,9 @@
+ftp.shaadi.org.pk
+webdisk.shaadi.org.pk
+webmail.shaadi.org.pk
+autodiscover.shaadi.org.pk
+dc-72e03bc45cc8.shaadi.org.pk
+mail.shaadi.org.pk
+shaadi.org.pk
+www.shaadi.org.pk
+cpanel.shaadi.org.pk

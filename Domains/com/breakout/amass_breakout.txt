@@ -1,0 +1,9 @@
+breakout.com.pk
+ns2.breakout.com.pk
+daak.breakout.com.pk
+mail.breakout.com.pk
+ns.breakout.com.pk
+staging.breakout.com.pk
+webmail.breakout.com.pk
+ns1.breakout.com.pk
+www.breakout.com.pk

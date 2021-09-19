@@ -1,0 +1,13 @@
+careers.wapda.gov.pk
+ftp.wapda.gov.pk
+gmfp.wapda.gov.pk
+ipv4.wapda.gov.pk
+mail.wapda.gov.pk
+ns1.wapda.gov.pk
+ns2.wapda.gov.pk
+old.wapda.gov.pk
+pension.wapda.gov.pk
+pmd.wapda.gov.pk
+wapda.gov.pk
+webmail.wapda.gov.pk
+www.wapda.gov.pk

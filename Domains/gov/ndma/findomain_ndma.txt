@@ -1,0 +1,11 @@
+web.ndma.gov.pk
+email2.ndma.gov.pk
+nddss.ndma.gov.pk
+mail.ndma.gov.pk
+cms.ndma.gov.pk
+cloud.ndma.gov.pk
+ims.ndma.gov.pk
+dmis.ndma.gov.pk
+www.ndma.gov.pk
+emailsrv.ndma.gov.pk
+ndma.gov.pk

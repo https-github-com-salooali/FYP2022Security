@@ -1,0 +1,17 @@
+paylink.apps.net.pk
+beta.apps.net.pk
+gateway.apps.net.pk
+cloud.apps.net.pk
+www.apps.net.pk
+admin.apps.net.pk
+mbappprod.apps.net.pk
+getstarted.apps.net.pk
+mail.apps.net.pk
+ipguat.apps.net.pk
+internal.apps.net.pk
+stores.apps.net.pk
+invoice.apps.net.pk
+unionpayterms.apps.net.pk
+apps.net.pk
+ipg1.apps.net.pk
+devstores.apps.net.pk

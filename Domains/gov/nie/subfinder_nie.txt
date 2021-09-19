@@ -1,0 +1,4 @@
+ftp.nie.gov.pk
+www.nie.gov.pk
+mail.nie.gov.pk
+webmail.nie.gov.pk

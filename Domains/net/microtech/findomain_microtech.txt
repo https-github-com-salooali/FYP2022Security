@@ -1,0 +1,12 @@
+cpanel.microtech.net.pk
+whm.microtech.net.pk
+autoconfig.microtech.net.pk
+cpcontacts.microtech.net.pk
+autodiscover.microtech.net.pk
+webdisk.microtech.net.pk
+www.microtech.net.pk
+cpcalendars.microtech.net.pk
+mail.microtech.net.pk
+microtech.net.pk
+ftp.microtech.net.pk
+webmail.microtech.net.pk

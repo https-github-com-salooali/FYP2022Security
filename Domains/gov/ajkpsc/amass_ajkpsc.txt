@@ -1,0 +1,5 @@
+mssql.ajkpsc.gov.pk
+ajkpsc.gov.pk
+www.ajkpsc.gov.pk
+mail.ajkpsc.gov.pk
+webmail.ajkpsc.gov.pk

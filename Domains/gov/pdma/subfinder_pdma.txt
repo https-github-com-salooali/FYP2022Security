@@ -1,0 +1,12 @@
+ns1.pdma.gov.pk
+app.pdma.gov.pk
+www.mis.pdma.gov.pk
+cew.pdma.gov.pk
+localhost.pdma.gov.pk
+www.cew.pdma.gov.pk
+ns2.pdma.gov.pk
+mis.pdma.gov.pk
+www.app.pdma.gov.pk
+dmis.pdma.gov.pk
+www.pdma.gov.pk
+mail.pdma.gov.pk

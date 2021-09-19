@@ -1,0 +1,17 @@
+eportal.cpsp.edu.pk
+web.site.www.cpsp.edu.pk
+gateway.cpsp.edu.pk
+elibrary.cpsp.edu.pk
+webmail.cpsp.edu.pk
+workshop.cpsp.edu.pk
+cdc.cpsp.edu.pk
+www.cpsp.edu.pk
+liveadmin.cpsp.edu.pk
+mis.cpsp.edu.pk
+goldenjubilee.cpsp.edu.pk
+cpsp.edu.pk
+idp.cpsp.edu.pk
+archive.cpsp.edu.pk
+ecert.cpsp.edu.pk
+exam.cpsp.edu.pk
+elogbook.cpsp.edu.pk

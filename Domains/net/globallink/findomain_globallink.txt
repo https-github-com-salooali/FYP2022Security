@@ -1,0 +1,11 @@
+cpanel.globallink.net.pk
+globallink.net.pk
+www.globallink.net.pk
+cpcalendars.globallink.net.pk
+localhost.globallink.net.pk
+mail.globallink.net.pk
+ftp.globallink.net.pk
+webdisk.globallink.net.pk
+webmail.globallink.net.pk
+whm.globallink.net.pk
+cpcontacts.globallink.net.pk

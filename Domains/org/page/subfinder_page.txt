@@ -1,0 +1,11 @@
+autodiscover.page.org.pk
+webdisk.page.org.pk
+cpcalendars.page.org.pk
+cpcontacts.page.org.pk
+page.org.pk
+whm.page.org.pk
+www.page.org.pk
+webmail.page.org.pk
+cpanel.page.org.pk
+ftp.page.org.pk
+mail.page.org.pk

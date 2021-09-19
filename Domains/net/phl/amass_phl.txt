@@ -1,0 +1,11 @@
+c.phl.net.pk
+webdisk.phl.net.pk
+cpcalendars.phl.net.pk
+www.phl.net.pk
+autodiscover.phl.net.pk
+ns.phl.net.pk
+phl.net.pk
+mail.phl.net.pk
+webmail.phl.net.pk
+cpcontacts.phl.net.pk
+cpanel.phl.net.pk

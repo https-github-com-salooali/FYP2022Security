@@ -1,0 +1,5 @@
+www.mnfsr.gov.pk
+webmail.mnfsr.gov.pk
+mail.mnfsr.gov.pk
+cms.mnfsr.gov.pk
+email.mnfsr.gov.pk

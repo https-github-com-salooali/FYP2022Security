@@ -1,0 +1,10 @@
+cpanel.tvo.org.pk
+cpcalendars.tvo.org.pk
+cpcontacts.tvo.org.pk
+mail.tvo.org.pk
+new.tvo.org.pk
+tvo.org.pk
+webdisk.tvo.org.pk
+webmail.tvo.org.pk
+www.new.tvo.org.pk
+www.tvo.org.pk

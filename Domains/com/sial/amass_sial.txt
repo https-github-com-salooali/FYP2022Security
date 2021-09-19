@@ -1,0 +1,14 @@
+sial.com.pk
+www.sial.com.pk
+skt.sial.com.pk
+ftp.sial.com.pk
+mail.sial.com.pk
+smtp.sial.com.pk
+mail-backup3.sial.com.pk
+mail-backup1.sial.com.pk
+autoconfig.sial.com.pk
+mail-backup2.sial.com.pk
+mail-backup.sial.com.pk
+mail1.sial.com.pk
+cpanel.sial.com.pk
+webmail.sial.com.pk

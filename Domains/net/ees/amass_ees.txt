@@ -1,0 +1,9 @@
+cpanel.ees.net.pk
+webdisk.ees.net.pk
+autoconfig.ees.net.pk
+cpcalendars.ees.net.pk
+mail.ees.net.pk
+ees.net.pk
+www.ees.net.pk
+cpcontacts.ees.net.pk
+webmail.ees.net.pk

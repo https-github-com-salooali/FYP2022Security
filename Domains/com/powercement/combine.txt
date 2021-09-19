@@ -1,0 +1,14 @@
+autodiscover.powercement.com.pk
+cpanel.powercement.com.pk
+cpcalendars.powercement.com.pk
+cpcontacts.powercement.com.pk
+fortigate.powercement.com.pk
+ftp.powercement.com.pk
+localhost.powercement.com.pk
+mail.powercement.com.pk
+powercement.com.pk
+webdisk.powercement.com.pk
+webmail.powercement.com.pk
+whm.powercement.com.pk
+www.fortigate.powercement.com.pk
+www.powercement.com.pk

@@ -1,0 +1,11 @@
+ipv6.kidneyfoundation.net.pk
+webmail.kidneyfoundation.net.pk
+dc-680740c6590b.kidneyfoundation.net.pk
+ftp.kidneyfoundation.net.pk
+cpcalendars.kidneyfoundation.net.pk
+cpcontacts.kidneyfoundation.net.pk
+mail.kidneyfoundation.net.pk
+cpanel.kidneyfoundation.net.pk
+webdisk.kidneyfoundation.net.pk
+kidneyfoundation.net.pk
+www.kidneyfoundation.net.pk

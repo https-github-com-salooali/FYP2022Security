@@ -1,0 +1,4 @@
+joinpaf.gov.pk
+mail.joinpaf.gov.pk
+webmail.joinpaf.gov.pk
+www.joinpaf.gov.pk

@@ -1,0 +1,12 @@
+cpcontacts.ntc.gov.pk
+webdisk.ntc.gov.pk
+ftp.ntc.gov.pk
+mail.ntc.gov.pk
+madre.ntc.gov.pk
+stats.ntc.gov.pk
+cpcalendars.ntc.gov.pk
+webmail.ntc.gov.pk
+whm.ntc.gov.pk
+localhost.ntc.gov.pk
+www.ntc.gov.pk
+cpanel.ntc.gov.pk

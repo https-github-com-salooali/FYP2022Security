@@ -1,0 +1,6 @@
+data.pbs.gov.pk
+0-mail.pbs.gov.pk
+pbs.gov.pk
+mail.pbs.gov.pk
+www.pbs.gov.pk
+webmail.pbs.gov.pk

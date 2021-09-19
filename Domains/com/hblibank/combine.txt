@@ -1,0 +1,4 @@
+autodiscover.hblibank.com.pk
+ftp.hblibank.com.pk
+hblibank.com.pk
+www.hblibank.com.pk

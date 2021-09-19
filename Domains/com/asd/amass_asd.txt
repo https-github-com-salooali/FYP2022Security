@@ -1,0 +1,10 @@
+webmail.asd.com.pk
+cpcalendars.asd.com.pk
+asd.com.pk
+cpanel.asd.com.pk
+ftp.asd.com.pk
+cpcontacts.asd.com.pk
+whm.asd.com.pk
+mail.asd.com.pk
+www.asd.com.pk
+webdisk.asd.com.pk

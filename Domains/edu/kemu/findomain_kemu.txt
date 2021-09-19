@@ -1,0 +1,16 @@
+test.kemu.edu.pk
+telemedicine.kemu.edu.pk
+www.kemu.edu.pk
+campus.kemu.edu.pk
+mail.kemu.edu.pk
+admin.kemu.edu.pk
+jcat.kemu.edu.pk
+mdb.kemu.edu.pk
+lms.kemu.edu.pk
+verifications.kemu.edu.pk
+library.kemu.edu.pk
+sc.kemu.edu.pk
+beta.kemu.edu.pk
+downloads.kemu.edu.pk
+xweb.kemu.edu.pk
+kemu.edu.pk

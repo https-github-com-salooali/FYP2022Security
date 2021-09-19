@@ -1,0 +1,14 @@
+webmail.finance.gov.pk
+ftp.finance.gov.pk
+cms.finance.gov.pk
+mssql.finance.gov.pk
+abc.finance.gov.pk
+internal.finance.gov.pk
+ppc.finance.gov.pk
+tsa.finance.gov.pk
+lists.finance.gov.pk
+sdmx.finance.gov.pk
+www.finance.gov.pk
+iso.finance.gov.pk
+mail.finance.gov.pk
+prsm.finance.gov.pk

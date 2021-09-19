@@ -1,0 +1,16 @@
+mail.greenstar.org.pk
+exchange.greenstar.org.pk
+autodiscover.greenstar.org.pk
+lms.greenstar.org.pk
+www.greenstar.org.pk
+gsexch.greenstar.org.pk
+mail2.greenstar.org.pk
+beta.greenstar.org.pk
+qrs.greenstar.org.pk
+www.lms.greenstar.org.pk
+support.greenstar.org.pk
+ftp.greenstar.org.pk
+webmail.greenstar.org.pk
+greenstar.org.pk
+portal.greenstar.org.pk
+helpdesk.greenstar.org.pk

@@ -1,0 +1,12 @@
+blog.sehat.com.pk
+sehatdemo.sehat.com.pk
+cdn.sehat.com.pk
+mail.sehat.com.pk
+www.sehat.com.pk
+nl.sehat.com.pk
+demoapi.sehat.com.pk
+sehat.com.pk
+b2b.sehat.com.pk
+signup.sehat.com.pk
+cont.sehat.com.pk
+dashboard.sehat.com.pk

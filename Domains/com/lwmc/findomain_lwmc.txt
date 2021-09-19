@@ -1,0 +1,11 @@
+webmail.lwmc.com.pk
+webdisk.lwmc.com.pk
+autodiscover.lwmc.com.pk
+www.lwmc.com.pk
+lwmcapps.lwmc.com.pk
+mail.lwmc.com.pk
+cpanel.lwmc.com.pk
+server.lwmc.com.pk
+lwmc.com.pk
+www.server.lwmc.com.pk
+www.lwmcapps.lwmc.com.pk

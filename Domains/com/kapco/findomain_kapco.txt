@@ -1,0 +1,15 @@
+mail.kapco.com.pk
+www.kapco.com.pk
+kapco.com.pk
+mssql.kapco.com.pk
+ns.kapco.com.pk
+smtpwateen.kapco.com.pk
+webmail.kapco.com.pk
+cpanel.kapco.com.pk
+autodiscover.kapco.com.pk
+ftp.kapco.com.pk
+webdisk.kapco.com.pk
+sm-email.kapco.com.pk
+pop.kapco.com.pk
+smtp.kapco.com.pk
+smtpptcl.kapco.com.pk

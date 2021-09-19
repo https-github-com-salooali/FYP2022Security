@@ -1,0 +1,11 @@
+webdisk.ntc.gov.pk
+cpanel.ntc.gov.pk
+madre.ntc.gov.pk
+www.madre.ntc.gov.pk
+www.ntc.gov.pk
+webmail.ntc.gov.pk
+cpcalendars.ntc.gov.pk
+autodiscover.ntc.gov.pk
+ntc.gov.pk
+cpcontacts.ntc.gov.pk
+mail.ntc.gov.pk

@@ -1,0 +1,12 @@
+server1.etea.edu.pk
+apply.etea.edu.pk
+webmail.etea.edu.pk
+cpanel.etea.edu.pk
+etea.edu.pk
+server2.etea.edu.pk
+www.server1.etea.edu.pk
+autodiscover.etea.edu.pk
+webdisk.etea.edu.pk
+www.etea.edu.pk
+www.apply.etea.edu.pk
+mail.etea.edu.pk

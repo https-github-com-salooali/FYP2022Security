@@ -1,0 +1,17 @@
+autoconfig.nip.com.pk
+autodiscover.nip.com.pk
+cpanel.nip.com.pk
+cpcalendars.nip.com.pk
+cpcontacts.nip.com.pk
+ftp.nip.com.pk
+imap.nip.com.pk
+link.nip.com.pk
+localhost.nip.com.pk
+mail.nip.com.pk
+nip.com.pk
+pop.nip.com.pk
+smtp.nip.com.pk
+webdisk.nip.com.pk
+webmail.nip.com.pk
+whm.nip.com.pk
+www.nip.com.pk

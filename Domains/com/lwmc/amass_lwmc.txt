@@ -1,0 +1,17 @@
+www.lwmc.com.pk
+www.server.lwmc.com.pk
+ns1.lwmc.com.pk
+ftp.lwmc.com.pk
+autoconfig.lwmc.com.pk
+lwmc.com.pk
+webmail.lwmc.com.pk
+mail.lwmc.com.pk
+www.lwmcapps.lwmc.com.pk
+autodiscover.lwmc.com.pk
+ns2.lwmc.com.pk
+server.lwmc.com.pk
+cpcalendars.lwmc.com.pk
+cpcontacts.lwmc.com.pk
+cpanel.lwmc.com.pk
+webdisk.lwmc.com.pk
+lwmcapps.lwmc.com.pk

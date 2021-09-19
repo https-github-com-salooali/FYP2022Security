@@ -1,0 +1,7 @@
+portal.pap.org.pk
+webmail.pap.org.pk
+pap.org.pk
+www.pap.org.pk
+mail.pap.org.pk
+ftp.pap.org.pk
+cpanel.pap.org.pk

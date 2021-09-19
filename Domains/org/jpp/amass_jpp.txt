@@ -1,0 +1,16 @@
+hrmis.jpp.org.pk
+ftp.jpp.org.pk
+www.jpp.org.pk
+autodiscover.jpp.org.pk
+www.hrmis.jpp.org.pk
+whm.jpp.org.pk
+www.webmail.jpp.org.pk
+data.jpp.org.pk
+webdisk.jpp.org.pk
+webmail.jpp.org.pk
+cpcontacts.jpp.org.pk
+cpcalendars.jpp.org.pk
+ns.jpp.org.pk
+jpp.org.pk
+cpanel.jpp.org.pk
+autoconfig.jpp.org.pk

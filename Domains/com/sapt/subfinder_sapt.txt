@@ -1,0 +1,7 @@
+enterpriseenrollment.sapt.com.pk
+ftp.sapt.com.pk
+portal.sapt.com.pk
+www.hph-dd-prd.sapt.com.pk
+www.sapt.com.pk
+hph-dd-prd.sapt.com.pk
+autodiscover.sapt.com.pk

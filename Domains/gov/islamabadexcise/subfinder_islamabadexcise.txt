@@ -1,0 +1,7 @@
+www.islamabadexcise.gov.pk
+mail.islamabadexcise.gov.pk
+stats.islamabadexcise.gov.pk
+cp.islamabadexcise.gov.pk
+phpmyadmin.islamabadexcise.gov.pk
+ftp.islamabadexcise.gov.pk
+unauthorized.islamabadexcise.gov.pk

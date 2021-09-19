@@ -1,0 +1,13 @@
+pif.org.pk
+autodiscover.pif.org.pk
+mail.pif.org.pk
+webdisk.pif.org.pk
+cpanel.pif.org.pk
+webmail.pif.org.pk
+kcil.pif.org.pk
+cpcalendars.pif.org.pk
+cpcontacts.pif.org.pk
+www.pif.org.pk
+learninginnovation.pif.org.pk
+www.learninginnovation.pif.org.pk
+whm.pif.org.pk

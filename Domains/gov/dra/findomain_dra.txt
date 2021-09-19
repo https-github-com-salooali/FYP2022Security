@@ -1,0 +1,15 @@
+report.dra.gov.pk
+fee.dra.gov.pk
+webdemo.dra.gov.pk
+ftp.dra.gov.pk
+nrcs.dra.gov.pk
+geoview.dra.gov.pk
+webmail.dra.gov.pk
+it.dra.gov.pk
+public.dra.gov.pk
+www.dra.gov.pk
+e.dra.gov.pk
+dris.dra.gov.pk
+dra.gov.pk
+pirims.dra.gov.pk
+mail.dra.gov.pk

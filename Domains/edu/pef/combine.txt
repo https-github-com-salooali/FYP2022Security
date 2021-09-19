@@ -1,0 +1,10 @@
+blog.pef.edu.pk
+cp.pef.edu.pk
+doesnt-exist.pef.edu.pk
+forum.pef.edu.pk
+ftp.pef.edu.pk
+pef.edu.pk
+ris.pef.edu.pk
+smtp.pef.edu.pk
+www2.pef.edu.pk
+www.pef.edu.pk

@@ -1,0 +1,9 @@
+16.audi.com.pk
+www.audi.com.pk
+mail.audi.com.pk
+backup-mx1.audi.com.pk
+amail.audi.com.pk
+audi.com.pk
+autodiscover.audi.com.pk
+pre-www.audi.com.pk
+pre-origin-www.audi.com.pk

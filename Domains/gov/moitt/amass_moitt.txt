@@ -1,0 +1,11 @@
+moitt.gov.pk
+ccp.moitt.gov.pk
+www.ccp.moitt.gov.pk
+www.asia-itsummit.moitt.gov.pk
+cms.moitt.gov.pk
+autodiscover.moitt.gov.pk
+email.moitt.gov.pk
+mail.moitt.gov.pk
+www.moitt.gov.pk
+www.email.moitt.gov.pk
+jobs.moitt.gov.pk

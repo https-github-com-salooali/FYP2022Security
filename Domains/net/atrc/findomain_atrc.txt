@@ -1,0 +1,10 @@
+atrc.net.pk
+www.atrc.net.pk
+mail.atrc.net.pk
+web.atrc.net.pk
+relay.atrc.net.pk
+dns1.atrc.net.pk
+projects.atrc.net.pk
+vps.atrc.net.pk
+ftp.atrc.net.pk
+backup.atrc.net.pk

@@ -1,0 +1,16 @@
+apply.hup.edu.pk
+inter.hup.edu.pk
+hugt.hup.edu.pk
+studentlife.hup.edu.pk
+mail.hup.edu.pk
+www.international.hup.edu.pk
+ns1.hup.edu.pk
+myhu.hup.edu.pk
+1stop.hup.edu.pk
+ns2.hup.edu.pk
+www.studentlife.hup.edu.pk
+ftp.hup.edu.pk
+www.hup.edu.pk
+international.hup.edu.pk
+euniversity.hup.edu.pk
+webmail.hup.edu.pk

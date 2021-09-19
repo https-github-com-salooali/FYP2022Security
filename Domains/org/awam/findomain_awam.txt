@@ -1,0 +1,6 @@
+awam.org.pk
+ipv4.awam.org.pk
+www.awam.org.pk
+mail.awam.org.pk
+webmail.awam.org.pk
+ftp.awam.org.pk

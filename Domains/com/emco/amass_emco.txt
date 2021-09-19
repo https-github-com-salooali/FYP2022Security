@@ -1,0 +1,10 @@
+emco.com.pk
+www.emco.com.pk
+www.hvmtlab.emco.com.pk
+hvmtlab.emco.com.pk
+smtp.emco.com.pk
+webmail.emco.com.pk
+pop.emco.com.pk
+imap.emco.com.pk
+ftp.emco.com.pk
+mail.emco.com.pk

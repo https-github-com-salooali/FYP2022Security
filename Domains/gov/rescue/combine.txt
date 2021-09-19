@@ -1,0 +1,10 @@
+ftp.rescue.gov.pk
+ipv4.rescue.gov.pk
+lists.rescue.gov.pk
+mail.rescue.gov.pk
+ns1.rescue.gov.pk
+ns2.rescue.gov.pk
+ns.rescue.gov.pk
+rescue.gov.pk
+webmail.rescue.gov.pk
+www.rescue.gov.pk

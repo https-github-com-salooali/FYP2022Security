@@ -1,0 +1,17 @@
+cpec.pide.org.pk
+cpcontacts.pide.org.pk
+cpanel.pide.org.pk
+cp.pide.org.pk
+psde.pide.org.pk
+pide.org.pk
+www.cpec.pide.org.pk
+cpcalendars.pide.org.pk
+ftp.pide.org.pk
+autoconfig.pide.org.pk
+badmin.pide.org.pk
+phpmyadmin.pide.org.pk
+webdisk.pide.org.pk
+mail.pide.org.pk
+webmail.pide.org.pk
+www.pide.org.pk
+beta.pide.org.pk

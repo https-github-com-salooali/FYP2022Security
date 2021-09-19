@@ -1,0 +1,6 @@
+pafroa.paf.gov.pk
+webmail.paf.gov.pk
+www.pafroa.paf.gov.pk
+test.paf.gov.pk
+www.paf.gov.pk
+mail.paf.gov.pk

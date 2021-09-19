@@ -1,0 +1,7 @@
+https://github.com/OWASP/Amass
+https://github.com/Findomain/Findomain
+https://www.elastic.co/kibana/
+https://github.com/tomnomnom/httprobe 
+https://www.hahwul.com/2020/09/23/amass-go-deep-in-the-sea-with-free-apis/
+https://hakluke.medium.com/haklukes-guide-to-amass-how-to-use-amass-more-effectively-for-bug-bounties-7c37570b83f7
+https://github.com/projectdiscovery/subfinder

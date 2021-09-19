@@ -1,0 +1,7 @@
+cpanel.ihro.org.pk
+ftp.ihro.org.pk
+ihro.org.pk
+mail.ihro.org.pk
+webmail.ihro.org.pk
+whm.ihro.org.pk
+www.ihro.org.pk

@@ -1,0 +1,17 @@
+pop.sindheducation.gov.pk
+www.sindheducation.gov.pk
+mail.sindheducation.gov.pk
+imap.sindheducation.gov.pk
+e.sindheducation.gov.pk
+demo.sindheducation.gov.pk
+email.sindheducation.gov.pk
+dghrt.sindheducation.gov.pk
+checker.sindheducation.gov.pk
+ftp.sindheducation.gov.pk
+edusystem.sindheducation.gov.pk
+gateway.sindheducation.gov.pk
+mne.sindheducation.gov.pk
+ssims.sindheducation.gov.pk
+webmail.sindheducation.gov.pk
+smtp.sindheducation.gov.pk
+autodiscover.sindheducation.gov.pk

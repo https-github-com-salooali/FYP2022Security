@@ -1,0 +1,16 @@
+www.jobs.gov.pk
+ns1.jobs.gov.pk
+ns2.jobs.gov.pk
+ns2.services.jobs.gov.pk
+webmail.jobs.gov.pk
+www.ntc.jobs.gov.pk
+mail.services.jobs.gov.pk
+jobs.gov.pk
+demoservices.jobs.gov.pk
+mail.demoservices.jobs.gov.pk
+ns1.demoservices.jobs.gov.pk
+ns1.services.jobs.gov.pk
+ns2.demoservices.jobs.gov.pk
+services.jobs.gov.pk
+mail.jobs.gov.pk
+demo.jobs.gov.pk

@@ -1,0 +1,14 @@
+a.org.pk
+mail.a.org.pk
+webmail.a.org.pk
+www.aiou-pysics-department.a.org.pk
+cpanel.a.org.pk
+cpcalendars.a.org.pk
+www.aiou-physics-department.a.org.pk
+a.p.h.a.org.pk
+adfs.a.org.pk
+webdisk.a.org.pk
+cpcontacts.a.org.pk
+www.a.org.pk
+aiou-physics-department.a.org.pk
+aiou-pysics-department.a.org.pk

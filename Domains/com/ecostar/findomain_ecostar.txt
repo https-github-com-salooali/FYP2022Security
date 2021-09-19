@@ -1,0 +1,5 @@
+autodiscover.ecostar.com.pk
+ftp.ecostar.com.pk
+www.ecostar.com.pk
+dwp.ecostar.com.pk
+ecostar.com.pk

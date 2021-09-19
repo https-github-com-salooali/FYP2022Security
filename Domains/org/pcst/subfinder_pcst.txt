@@ -1,0 +1,8 @@
+www.pcst.org.pk
+ftp.pcst.org.pk
+webmail.pcst.org.pk
+phpmyadmin.pcst.org.pk
+0wn3d-39235284.pcst.org.pk
+lists.pcst.org.pk
+mail.pcst.org.pk
+server.pcst.org.pk

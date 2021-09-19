@@ -1,0 +1,13 @@
+cpanel.synergy.net.pk
+ftp-isb.synergy.net.pk
+relay.synergy.net.pk
+synergy.net.pk
+webmail.synergy.net.pk
+ftp.synergy.net.pk
+support.synergy.net.pk
+cpcalendars.synergy.net.pk
+webdisk.synergy.net.pk
+e-analysis.synergy.net.pk
+cpcontacts.synergy.net.pk
+www.synergy.net.pk
+mail.synergy.net.pk

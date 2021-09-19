@@ -1,0 +1,5 @@
+dreams.org.pk
+webmail.dreams.org.pk
+autodiscover.dreams.org.pk
+autoconfig.dreams.org.pk
+www.dreams.org.pk

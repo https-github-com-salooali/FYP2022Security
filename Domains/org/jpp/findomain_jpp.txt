@@ -1,0 +1,10 @@
+webmail.jpp.org.pk
+data.jpp.org.pk
+cpanel.jpp.org.pk
+jpp.org.pk
+www.webmail.jpp.org.pk
+webdisk.jpp.org.pk
+cpcontacts.jpp.org.pk
+hrmis.jpp.org.pk
+www.jpp.org.pk
+autodiscover.jpp.org.pk

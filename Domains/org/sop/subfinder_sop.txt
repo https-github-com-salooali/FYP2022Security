@@ -1,0 +1,13 @@
+mail.sop.org.pk
+sop.org.pk
+www.sop.org.pk
+cpcontacts.sop.org.pk
+webmail.sop.org.pk
+whm.sop.org.pk
+autodiscover.sop.org.pk
+cpanel.sop.org.pk
+www.sop.org.pk
+autoconfig.sop.org.pk
+ftp.sop.org.pk
+cpcalendars.sop.org.pk
+webdisk.sop.org.pk

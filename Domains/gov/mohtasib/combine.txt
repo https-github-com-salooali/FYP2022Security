@@ -1,0 +1,14 @@
+autodiscover.mohtasib.gov.pk
+cms.mohtasib.gov.pk
+cms.test.mohtasib.gov.pk
+complain.mohtasib.gov.pk
+complaints.mohtasib.gov.pk
+mail.mohtasib.gov.pk
+mohtasib.gov.pk
+ns1.mohtasib.gov.pk
+ns2.mohtasib.gov.pk
+test.mohtasib.gov.pk
+webmail.mohtasib.gov.pk
+wms-pdc-2k8.mohtasib.gov.pk
+www.complaints.mohtasib.gov.pk
+www.mohtasib.gov.pk

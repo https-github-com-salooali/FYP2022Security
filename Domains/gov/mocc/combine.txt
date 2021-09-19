@@ -1,0 +1,8 @@
+cms.mocc.gov.pk
+cms.test.mocc.gov.pk
+email.mocc.gov.pk
+mail.mocc.gov.pk
+mocc.gov.pk
+test.mocc.gov.pk
+webmail.mocc.gov.pk
+www.mocc.gov.pk

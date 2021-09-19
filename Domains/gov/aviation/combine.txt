@@ -1,0 +1,6 @@
+aviation.gov.pk
+cms.aviation.gov.pk
+email.aviation.gov.pk
+mail.aviation.gov.pk
+test.aviation.gov.pk
+www.aviation.gov.pk

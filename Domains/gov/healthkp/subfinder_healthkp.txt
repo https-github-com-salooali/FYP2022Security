@@ -1,0 +1,14 @@
+hrmis.healthkp.gov.pk
+druglicense.healthkp.gov.pk
+etransfer.healthkp.gov.pk
+tmsh.healthkp.gov.pk
+www.phd.healthkp.gov.pk
+mail.healthkp.gov.pk
+ns2.healthkp.gov.pk
+www.druglicense.healthkp.gov.pk
+www.healthkp.gov.pk
+ns1.healthkp.gov.pk
+phd.healthkp.gov.pk
+eprocurement.healthkp.gov.pk
+onlineapplication.healthkp.gov.pk
+localhost.healthkp.gov.pk

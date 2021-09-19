@@ -1,0 +1,7 @@
+www.ots.org.pk
+ots.org.pk
+mail.ots.org.pk
+cpanel.ots.org.pk
+ftp.ots.org.pk
+webmail.ots.org.pk
+auth.ots.org.pk

@@ -1,0 +1,12 @@
+app.gcci.org.pk
+archive.gcci.org.pk
+beta.gcci.org.pk
+ftp.gcci.org.pk
+gcci.org.pk
+ipv4.gcci.org.pk
+lists.gcci.org.pk
+mail.gcci.org.pk
+mssql.gcci.org.pk
+ns.gcci.org.pk
+webmail.gcci.org.pk
+www.gcci.org.pk

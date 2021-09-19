@@ -1,0 +1,7 @@
+alpha.org.pk
+cpanel.alpha.org.pk
+ftp.alpha.org.pk
+mail.alpha.org.pk
+webdisk.alpha.org.pk
+webmail.alpha.org.pk
+www.alpha.org.pk

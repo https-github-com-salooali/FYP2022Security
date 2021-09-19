@@ -1,0 +1,14 @@
+cpcalendars.ghurkitrust.org.pk
+cpanel.ghurkitrust.org.pk
+mail.ghurkitrust.org.pk
+webmail.ghurkitrust.org.pk
+www.ghurkitrust.org.pk
+mailsrvr.ghurkitrust.org.pk
+ftp.ghurkitrust.org.pk
+localhost.ghurkitrust.org.pk
+webdisk.ghurkitrust.org.pk
+reports.ghurkitrust.org.pk
+whm.ghurkitrust.org.pk
+116-58-25-77.mailsrvr.ghurkitrust.org.pk
+cpcontacts.ghurkitrust.org.pk
+116.58.25.78.mailsrvr.ghurkitrust.org.pk

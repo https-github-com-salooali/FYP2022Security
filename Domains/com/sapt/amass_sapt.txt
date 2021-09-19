@@ -1,0 +1,9 @@
+sapt-ntracs.sapt.com.pk
+noc-uat.sapt.com.pk
+www.noc-uat.sapt.com.pk
+sapt.com.pk
+hph-dd-prd.sapt.com.pk
+www.sapt.com.pk
+www.hph-dd-prd.sapt.com.pk
+www.sapt-ntracs.sapt.com.pk
+portal.sapt.com.pk

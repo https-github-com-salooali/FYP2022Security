@@ -1,0 +1,8 @@
+cms.ead.gov.pk
+ead.gov.pk
+email.ead.gov.pk
+mail.ead.gov.pk
+ngo.ead.gov.pk
+webmail.ead.gov.pk
+www.ead.gov.pk
+www.ngo.ead.gov.pk

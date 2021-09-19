@@ -1,0 +1,11 @@
+av2.karachiairport.com.pk
+av.karachiairport.com.pk
+ftp.karachiairport.com.pk
+ipv4.karachiairport.com.pk
+karachiairport.com.pk
+lists.karachiairport.com.pk
+mail.karachiairport.com.pk
+mssql.karachiairport.com.pk
+ns.karachiairport.com.pk
+webmail.karachiairport.com.pk
+www.karachiairport.com.pk

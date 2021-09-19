@@ -1,0 +1,11 @@
+cloud.pc.gov.pk
+home.pc.gov.pk
+ipas.pc.gov.pk
+lmis.pc.gov.pk
+mail.pc.gov.pk
+new.pc.gov.pk
+pc.gov.pk
+pmes.pc.gov.pk
+webmail.pc.gov.pk
+www.lmis.pc.gov.pk
+www.pc.gov.pk

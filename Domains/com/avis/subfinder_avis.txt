@@ -1,0 +1,7 @@
+mail.avis.com.pk
+ftp.avis.com.pk
+cpanel.avis.com.pk
+webmail.avis.com.pk
+webdisk.avis.com.pk
+whm.avis.com.pk
+www.avis.com.pk

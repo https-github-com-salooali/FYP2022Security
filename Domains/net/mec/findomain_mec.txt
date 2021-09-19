@@ -1,0 +1,13 @@
+cpcalendars.mec.net.pk
+cpanel.mec.net.pk
+www.mec.net.pk
+mec.net.pk
+webmail.mec.net.pk
+mail.mec.net.pk
+autoconfig.mec.net.pk
+localhost.mec.net.pk
+webdisk.mec.net.pk
+ftp.mec.net.pk
+cpcontacts.mec.net.pk
+autodiscover.mec.net.pk
+whm.mec.net.pk

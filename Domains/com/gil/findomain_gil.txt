@@ -1,0 +1,17 @@
+webmail.gil.com.pk
+ftp.gil.com.pk
+ipv4.gil.com.pk
+mail.gil.com.pk
+mssql.gil.com.pk
+sip.gil.com.pk
+email.gil.com.pk
+autodiscover.gil.com.pk
+lists.gil.com.pk
+gil.com.pk
+av.gil.com.pk
+ns.gil.com.pk
+efa.gil.com.pk
+av6.gil.com.pk
+lyncdiscover.gil.com.pk
+www.gil.com.pk
+ts.gil.com.pk

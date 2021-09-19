@@ -1,0 +1,16 @@
+www.eprocurement.suparco.gov.pk
+av.suparco.gov.pk
+webmail.suparco.gov.pk
+www.orientation.suparco.gov.pk
+beta1.suparco.gov.pk
+mail2.suparco.gov.pk
+mail.suparco.gov.pk
+www.testproc.suparco.gov.pk
+mssql.suparco.gov.pk
+suparco.gov.pk
+eprocurement.suparco.gov.pk
+vtracking.suparco.gov.pk
+www.suparco.gov.pk
+www.mail2.suparco.gov.pk
+www.vtracking.suparco.gov.pk
+ns.suparco.gov.pk

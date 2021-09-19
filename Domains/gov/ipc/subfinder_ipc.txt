@@ -1,0 +1,5 @@
+email.ipc.gov.pk
+cms.ipc.gov.pk
+mail.ipc.gov.pk
+mes.ipc.gov.pk
+www.ipc.gov.pk

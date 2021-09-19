@@ -1,0 +1,15 @@
+autodiscover.pjms.org.pk
+cpanel.pjms.org.pk
+cpcalendars.pjms.org.pk
+cpcontacts.pjms.org.pk
+ftp.pjms.org.pk
+mail.pjms.org.pk
+ns1.pjms.org.pk
+ns2.pjms.org.pk
+pjms.org.pk
+server.pjms.org.pk
+webdisk.pjms.org.pk
+webmail.pjms.org.pk
+whm.pjms.org.pk
+www.pjms.org.pk
+www.server.pjms.org.pk

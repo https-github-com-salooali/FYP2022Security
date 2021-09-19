@@ -1,0 +1,11 @@
+beta.pifd.edu.pk
+autoconfig.pifd.edu.pk
+mail.pifd.edu.pk
+webmail.pifd.edu.pk
+ftp.pifd.edu.pk
+whm.pifd.edu.pk
+cpanel.pifd.edu.pk
+webdisk.pifd.edu.pk
+www.pifd.edu.pk
+www.beta.pifd.edu.pk
+cpcontacts.pifd.edu.pk

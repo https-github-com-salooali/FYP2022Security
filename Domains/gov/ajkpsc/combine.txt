@@ -1,0 +1,7 @@
+ajkpsc.gov.pk
+ftp.ajkpsc.gov.pk
+lists.ajkpsc.gov.pk
+mail.ajkpsc.gov.pk
+mssql.ajkpsc.gov.pk
+webmail.ajkpsc.gov.pk
+www.ajkpsc.gov.pk

@@ -1,0 +1,14 @@
+webmail.isl.com.pk
+cpcalendars.isl.com.pk
+mail.isl.com.pk
+cpanel.isl.com.pk
+bi.isl.com.pk
+autodiscover.isl.com.pk
+ftp.isl.com.pk
+www.isl.com.pk
+webdisk.isl.com.pk
+isl.com.pk
+cpcontacts.isl.com.pk
+www.cbr.isl.com.pk
+email.isl.com.pk
+webcenter.isl.com.pk

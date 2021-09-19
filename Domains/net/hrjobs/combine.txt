@@ -1,0 +1,7 @@
+ftp.hrjobs.net.pk
+hrjobs.net.pk
+lists.hrjobs.net.pk
+mail.hrjobs.net.pk
+mssql.hrjobs.net.pk
+webmail.hrjobs.net.pk
+www.hrjobs.net.pk

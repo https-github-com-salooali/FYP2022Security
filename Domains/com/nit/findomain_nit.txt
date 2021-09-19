@@ -1,0 +1,16 @@
+autodiscover.nit.com.pk
+mail.nit.com.pk
+ftp.nit.com.pk
+mssql.nit.com.pk
+nit-efa.nit.com.pk
+esg.nit.com.pk
+av6.nit.com.pk
+webmail.nit.com.pk
+email.nit.com.pk
+efa.nit.com.pk
+ipv4.nit.com.pk
+nit.com.pk
+www.nit.com.pk
+ns.nit.com.pk
+stagging.nit.com.pk
+investintrust.nit.com.pk

@@ -1,0 +1,7 @@
+www.nepra.org.pk
+webdisk.nepra.org.pk
+autodiscover.nepra.org.pk
+nepra.org.pk
+webmail.nepra.org.pk
+mail.nepra.org.pk
+cpanel.nepra.org.pk

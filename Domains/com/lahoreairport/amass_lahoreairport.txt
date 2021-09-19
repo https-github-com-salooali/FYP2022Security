@@ -1,0 +1,9 @@
+av.lahoreairport.com.pk
+mssql.lahoreairport.com.pk
+ns.lahoreairport.com.pk
+av2.lahoreairport.com.pk
+mail.lahoreairport.com.pk
+ipv4.lahoreairport.com.pk
+webmail.lahoreairport.com.pk
+lahoreairport.com.pk
+www.lahoreairport.com.pk

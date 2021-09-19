@@ -1,0 +1,13 @@
+cpanel.pid.gov.pk
+vps.pid.gov.pk
+webdisk.pid.gov.pk
+coronacounter.pid.gov.pk
+advertisement.pid.gov.pk
+www.pid.gov.pk
+webmail.pid.gov.pk
+release.pid.gov.pk
+mail.pid.gov.pk
+cp.pid.gov.pk
+ftp.pid.gov.pk
+beta.pid.gov.pk
+whm.pid.gov.pk

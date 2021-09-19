@@ -1,0 +1,14 @@
+mail.uoswabi.edu.pk
+smtp.uoswabi.edu.pk
+www.usjp.uoswabi.edu.pk
+pop.uoswabi.edu.pk
+www.admissions.uoswabi.edu.pk
+localhost.uoswabi.edu.pk
+webmail.uoswabi.edu.pk
+usjp.uoswabi.edu.pk
+uoswabi.edu.pk
+imap.uoswabi.edu.pk
+cpanel.uoswabi.edu.pk
+admissions.uoswabi.edu.pk
+www.uoswabi.edu.pk
+ftp.uoswabi.edu.pk

@@ -1,0 +1,12 @@
+autoconfig.paramount.net.pk
+autodiscover.paramount.net.pk
+cpanel.paramount.net.pk
+cpcalendars.paramount.net.pk
+cpcontacts.paramount.net.pk
+ftp.paramount.net.pk
+mail.paramount.net.pk
+paramount.net.pk
+webdisk.paramount.net.pk
+webmail.paramount.net.pk
+whm.paramount.net.pk
+www.paramount.net.pk

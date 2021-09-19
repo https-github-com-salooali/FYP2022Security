@@ -1,0 +1,10 @@
+cpcontacts.piler.org.pk
+cpcalendars.piler.org.pk
+ftp.piler.org.pk
+www.piler.org.pk
+webdisk.piler.org.pk
+whm.piler.org.pk
+webmail.piler.org.pk
+mail.piler.org.pk
+localhost.piler.org.pk
+cpanel.piler.org.pk

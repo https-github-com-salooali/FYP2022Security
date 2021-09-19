@@ -1,0 +1,8 @@
+donations.pbm.gov.pk
+hrms.pbm.gov.pk
+ifa.pbm.gov.pk
+mail.pbm.gov.pk
+panahgah.pbm.gov.pk
+pbm.gov.pk
+test.pbm.gov.pk
+www.pbm.gov.pk

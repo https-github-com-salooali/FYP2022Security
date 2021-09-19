@@ -1,0 +1,10 @@
+access.net.pk
+cpcontacts.access.net.pk
+autoconfig.access.net.pk
+www.access.net.pk
+autodiscover.access.net.pk
+cpanel.access.net.pk
+mail.access.net.pk
+webdisk.access.net.pk
+webmail.access.net.pk
+cpcalendars.access.net.pk

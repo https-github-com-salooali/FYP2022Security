@@ -1,0 +1,15 @@
+result.stsi.org.pk
+webmail.stsi.org.pk
+stsi.stsi.org.pk
+www.stsi.org.pk
+webdisk.stsi.org.pk
+cpanel.stsi.org.pk
+exam.stsi.org.pk
+hostmaster.stsi.org.pk
+stsi.org.pk
+server.stsi.org.pk
+mail.stsi.org.pk
+autodiscover.stsi.org.pk
+cp.server.stsi.org.pk
+ns2.stsi.org.pk
+ns1.stsi.org.pk

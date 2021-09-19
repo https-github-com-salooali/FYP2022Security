@@ -1,0 +1,8 @@
+www.pcatp.org.pk
+pcatp.org.pk
+ns1.pcatp.org.pk
+ns2.pcatp.org.pk
+mail.pcatp.org.pk
+webmail.pcatp.org.pk
+election.pcatp.org.pk
+ns.pcatp.org.pk

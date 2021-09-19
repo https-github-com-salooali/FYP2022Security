@@ -1,0 +1,17 @@
+test.weboc.gov.pk
+av2.weboc.gov.pk
+beta.weboc.gov.pk
+webmail.weboc.gov.pk
+smtp.weboc.gov.pk
+eauction.weboc.gov.pk
+ftp.weboc.gov.pk
+antismuggling.weboc.gov.pk
+dr.weboc.gov.pk
+mail.weboc.gov.pk
+w.weboc.gov.pk
+mx4.weboc.gov.pk
+m.weboc.gov.pk
+staging.weboc.gov.pk
+av.weboc.gov.pk
+www.weboc.gov.pk
+reports.weboc.gov.pk

@@ -1,0 +1,8 @@
+webmail.ipop.org.pk
+webdisk.ipop.org.pk
+mail.ipop.org.pk
+cpanel.ipop.org.pk
+ftp.ipop.org.pk
+cpcalendars.ipop.org.pk
+cpcontacts.ipop.org.pk
+www.ipop.org.pk

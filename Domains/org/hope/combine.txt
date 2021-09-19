@@ -1,0 +1,10 @@
+cpanel.hope.org.pk
+cpcalendars.hope.org.pk
+cpcontacts.hope.org.pk
+ftp.hope.org.pk
+hope.org.pk
+mail.hope.org.pk
+webdisk.hope.org.pk
+webmail.hope.org.pk
+whm.hope.org.pk
+www.hope.org.pk

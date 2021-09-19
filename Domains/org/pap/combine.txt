@@ -1,0 +1,9 @@
+cpanel.pap.org.pk
+ftp.pap.org.pk
+mail.pap.org.pk
+pap.org.pk
+portal.pap.org.pk
+webdisk.pap.org.pk
+webmail.pap.org.pk
+whm.pap.org.pk
+www.pap.org.pk

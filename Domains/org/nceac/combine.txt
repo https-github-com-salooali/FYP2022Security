@@ -1,0 +1,14 @@
+accredit.nceac.org.pk
+admin.nceac.org.pk
+councilcprs.nceac.org.pk
+council.nceac.org.pk
+cprs.nceac.org.pk
+ems.nceac.org.pk
+evaluation.nceac.org.pk
+ftp.nceac.org.pk
+mail.nceac.org.pk
+mis.nceac.org.pk
+nceac.org.pk
+test.nceac.org.pk
+webmail.nceac.org.pk
+www.nceac.org.pk

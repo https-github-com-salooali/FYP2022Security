@@ -1,0 +1,5 @@
+jaab.uaar.edu.pk 
+php.null.uaar.edu.pk
+src.uaar.edu.pk
+uaar.edu.pk
+www.uaar.edu.pk

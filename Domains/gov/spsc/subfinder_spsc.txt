@@ -1,0 +1,17 @@
+webdisk.spsc.gov.pk
+cpanel.spsc.gov.pk
+cpcontacts.spsc.gov.pk
+ftp.spsc.gov.pk
+webmail.rsheets.spsc.gov.pk
+cpcalendars.rsheets.spsc.gov.pk
+whm.spsc.gov.pk
+rsheets.spsc.gov.pk
+www.rsheets.spsc.gov.pk
+localhost.spsc.gov.pk
+mail.spsc.gov.pk
+cpcalendars.spsc.gov.pk
+www.spsc.gov.pk
+webmail.spsc.gov.pk
+whm.rsheets.spsc.gov.pk
+autodiscover.spsc.gov.pk
+cpcontacts.rsheets.spsc.gov.pk

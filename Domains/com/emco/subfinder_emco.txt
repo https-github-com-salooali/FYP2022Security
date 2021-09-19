@@ -1,0 +1,13 @@
+ftp.emco.com.pk
+mail.emco.com.pk
+www.hvmtlab.emco.com.pk
+pop.emco.com.pk
+imap.emco.com.pk
+www.emco.com.pk
+hvmtlab.emco.com.pk
+webmail.emco.com.pk
+smtp.emco.com.pk
+lyncdiscover.emco.com.pk
+sip.emco.com.pk
+webmail.hvmtlab.emco.com.pk
+autodiscover.emco.com.pk

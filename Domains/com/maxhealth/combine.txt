@@ -1,0 +1,10 @@
+cpanel.maxhealth.com.pk
+cpcalendars.maxhealth.com.pk
+_dc-mx.a3bf31044b5e.maxhealth.com.pk
+ftp.maxhealth.com.pk
+mail.maxhealth.com.pk
+maxhealth.com.pk
+webdisk.maxhealth.com.pk
+webmail.maxhealth.com.pk
+whm.maxhealth.com.pk
+www.maxhealth.com.pk

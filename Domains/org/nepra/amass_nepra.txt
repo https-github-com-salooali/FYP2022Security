@@ -1,0 +1,11 @@
+cpanel.nepra.org.pk
+webdisk.nepra.org.pk
+www.nepra.org.pk
+webmail.nepra.org.pk
+mail.nepra.org.pk
+autodiscover.nepra.org.pk
+0-nepra-exhange.nepra.org.pk
+nepra-exhange.nepra.org.pk
+autoconfig.nepra.org.pk
+nepra.org.pk
+whm.nepra.org.pk

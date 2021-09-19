@@ -1,0 +1,7 @@
+mail.pcst.org.pk
+server.pcst.org.pk
+www.pcst.org.pk
+phpmyadmin.pcst.org.pk
+39235284.pcst.org.pk
+webmail.pcst.org.pk
+pcst.org.pk

@@ -1,0 +1,11 @@
+cpanel.powercement.com.pk
+mail.powercement.com.pk
+webdisk.powercement.com.pk
+webmail.powercement.com.pk
+localhost.powercement.com.pk
+cpcontacts.powercement.com.pk
+whm.powercement.com.pk
+www.powercement.com.pk
+cpcalendars.powercement.com.pk
+ftp.powercement.com.pk
+autodiscover.powercement.com.pk

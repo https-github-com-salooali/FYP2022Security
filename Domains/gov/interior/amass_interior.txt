@@ -1,0 +1,10 @@
+tms.interior.gov.pk
+ingo.interior.gov.pk
+mail.interior.gov.pk
+po.interior.gov.pk
+webmail.interior.gov.pk
+www.interior.gov.pk
+cms.interior.gov.pk
+www.webmail.interior.gov.pk
+interior.gov.pk
+www.ingo.interior.gov.pk

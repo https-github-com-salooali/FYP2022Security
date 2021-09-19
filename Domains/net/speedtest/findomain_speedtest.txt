@@ -1,0 +1,11 @@
+speedtest.net.pk
+webmail.speedtest.net.pk
+cpanel.speedtest.net.pk
+dc-c0b2b4934a99.speedtest.net.pk
+www.admin.speedtest.net.pk
+admin.speedtest.net.pk
+autodiscover.speedtest.net.pk
+www.speedtest.net.pk
+whm.speedtest.net.pk
+mail.speedtest.net.pk
+webdisk.speedtest.net.pk

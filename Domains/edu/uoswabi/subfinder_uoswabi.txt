@@ -1,0 +1,17 @@
+cpanel.uoswabi.edu.pk
+pop.uoswabi.edu.pk
+imap.uoswabi.edu.pk
+autodiscover.uoswabi.edu.pk
+www.uoswabi.edu.pk
+ftp.uoswabi.edu.pk
+smtp.uoswabi.edu.pk
+webdisk.uoswabi.edu.pk
+localhost.uoswabi.edu.pk
+whm.uoswabi.edu.pk
+autoconfig.uoswabi.edu.pk
+www.usjp.uoswabi.edu.pk
+usjp.uoswabi.edu.pk
+www.admissions.uoswabi.edu.pk
+admissions.uoswabi.edu.pk
+webmail.uoswabi.edu.pk
+mail.uoswabi.edu.pk

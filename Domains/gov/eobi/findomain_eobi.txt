@@ -1,0 +1,10 @@
+eobi.gov.pk
+sba.eobi.gov.pk
+intranet.eobi.gov.pk
+webmail.eobi.gov.pk
+fs2e.eobi.gov.pk
+ftp.eobi.gov.pk
+www.eobi.gov.pk
+employerinfo.eobi.gov.pk
+cms.eobi.gov.pk
+cba.eobi.gov.pk

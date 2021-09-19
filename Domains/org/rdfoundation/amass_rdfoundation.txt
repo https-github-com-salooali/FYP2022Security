@@ -1,0 +1,5 @@
+www.rdfoundation.org.pk
+ftp.rdfoundation.org.pk
+trc.rdfoundation.org.pk
+ssh.rdfoundation.org.pk
+rdfoundation.org.pk

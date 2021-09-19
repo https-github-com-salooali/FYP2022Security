@@ -1,0 +1,11 @@
+backend.cricketpakistan.com.pk
+mail.cricketpakistan.com.pk
+mx.cricketpakistan.com.pk
+pop.cricketpakistan.com.pk
+stage.cricketpakistan.com.pk
+av1.cricketpakistan.com.pk
+cricketpakistan.com.pk
+staging.cricketpakistan.com.pk
+av0.cricketpakistan.com.pk
+www.cricketpakistan.com.pk
+c.cricketpakistan.com.pk

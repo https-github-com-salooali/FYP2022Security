@@ -1,0 +1,10 @@
+calendar.islamabadclub.org.pk
+cms.islamabadclub.org.pk
+docs.islamabadclub.org.pk
+ftp.islamabadclub.org.pk
+islamabadclub.org.pk
+mail.islamabadclub.org.pk
+sites.islamabadclub.org.pk
+start.islamabadclub.org.pk
+webmail.islamabadclub.org.pk
+www.islamabadclub.org.pk

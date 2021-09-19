@@ -1,0 +1,16 @@
+mailhosts.pifd.edu.pk
+imap.mail.pifd.edu.pk
+imap.pifd.edu.pk
+imap-01.pifd.edu.pk
+autoconfig.pifd.edu.pk
+www.pifd.edu.pk
+beta.pifd.edu.pk
+pifd.edu.pk
+in.pifd.edu.pk
+mail2.pifd.edu.pk
+ns1.pifd.edu.pk
+mail-imap.pifd.edu.pk
+webmail.pifd.edu.pk
+webdisk.pifd.edu.pk
+mail.pifd.edu.pk
+ns2.pifd.edu.pk

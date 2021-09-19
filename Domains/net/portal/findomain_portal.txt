@@ -1,0 +1,9 @@
+mail.portal.net.pk
+hydromet.portal.net.pk
+ftp.portal.net.pk
+construction.portal.net.pk
+portal.net.pk
+webmail.portal.net.pk
+defense.portal.net.pk
+lists.portal.net.pk
+www.portal.net.pk

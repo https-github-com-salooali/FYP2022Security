@@ -1,0 +1,7 @@
+email.nespak.com.pk
+mail.nespak.com.pk
+nespak.com.pk
+webmail.nespak.com.pk
+smtp.nespak.com.pk
+mis.nespak.com.pk
+www.nespak.com.pk

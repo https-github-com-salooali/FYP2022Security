@@ -1,0 +1,15 @@
+www.indusvalley.edu.pk
+localhost.indusvalley.edu.pk
+autodiscover.indusvalley.edu.pk
+admissions.indusvalley.edu.pk
+ftp.indusvalley.edu.pk
+webdisk.indusvalley.edu.pk
+indusvalley.edu.pk
+ivssociety-org.indusvalley.edu.pk
+webmail.indusvalley.edu.pk
+cpcontacts.indusvalley.edu.pk
+mail.indusvalley.edu.pk
+cpanel.indusvalley.edu.pk
+cpcalendars.indusvalley.edu.pk
+mbox.indusvalley.edu.pk
+www.ivssociety-org.indusvalley.edu.pk

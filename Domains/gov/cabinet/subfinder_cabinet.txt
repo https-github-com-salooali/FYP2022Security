@@ -1,0 +1,11 @@
+webmail.cabinet.gov.pk
+portal.cabinet.gov.pk
+mdm.cabinet.gov.pk
+cabxprt3laxel.cabinet.gov.pk
+mail.cabinet.gov.pk
+tts.cabinet.gov.pk
+storage.cabinet.gov.pk
+app.cabinet.gov.pk
+www.cabinet.gov.pk
+cms.cabinet.gov.pk
+staging.cabinet.gov.pk

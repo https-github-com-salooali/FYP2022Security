@@ -1,0 +1,7 @@
+web.insignia.com.pk
+autodiscover.insignia.com.pk
+cp.insignia.com.pk
+insignia.com.pk
+www.insignia.com.pk
+mail.insignia.com.pk
+test.insignia.com.pk

@@ -1,0 +1,11 @@
+ffh.moitt.gov.pk
+www.moitt.gov.pk
+moitsrv-1.moitt.gov.pk
+autodiscover.moitt.gov.pk
+mes.moitt.gov.pk
+cms.moitt.gov.pk
+jobs.moitt.gov.pk
+email.moitt.gov.pk
+mail.moitt.gov.pk
+ccpcms.moitt.gov.pk
+ccp.moitt.gov.pk

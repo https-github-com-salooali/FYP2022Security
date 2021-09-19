@@ -1,0 +1,9 @@
+healthkp.gov.pk
+mail.healthkp.gov.pk
+www.healthkp.gov.pk
+www.druglicense.healthkp.gov.pk
+druglicense.healthkp.gov.pk
+tmsh.healthkp.gov.pk
+ns1.healthkp.gov.pk
+hrmis.healthkp.gov.pk
+onlineapplication.healthkp.gov.pk

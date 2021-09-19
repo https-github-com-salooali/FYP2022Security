@@ -1,0 +1,10 @@
+cpanel.esp.net.pk
+cpcalendars.esp.net.pk
+cpcontacts.esp.net.pk
+www.esp.net.pk
+ftp.esp.net.pk
+autoconfig.esp.net.pk
+esp.net.pk
+webdisk.esp.net.pk
+mail.esp.net.pk
+webmail.esp.net.pk

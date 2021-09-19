@@ -1,0 +1,16 @@
+ans1.wancom.net.pk
+ans2.wancom.net.pk
+cache.wancom.net.pk
+cloud.wancom.net.pk
+login.wancom.net.pk
+mail.wancom.net.pk
+mrtg.wancom.net.pk
+ns1.wancom.net.pk
+ns2.wancom.net.pk
+smtp.wancom.net.pk
+speedtest.wancom.net.pk
+squid.wancom.net.pk
+ssl.wancom.net.pk
+ticket.wancom.net.pk
+wancom.net.pk
+www.wancom.net.pk

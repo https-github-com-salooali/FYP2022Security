@@ -1,0 +1,9 @@
+webmail.khilji.net.pk
+cpcalendars.khilji.net.pk
+ftp.khilji.net.pk
+autodiscover.khilji.net.pk
+webdisk.khilji.net.pk
+www.khilji.net.pk
+cpcontacts.khilji.net.pk
+cpanel.khilji.net.pk
+mail.khilji.net.pk

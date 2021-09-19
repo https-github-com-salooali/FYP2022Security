@@ -1,0 +1,8 @@
+orders.mgmotors.com.pk
+dev-orders.mgmotors.com.pk
+admin.mgmotors.com.pk
+beta.mgmotors.com.pk
+beta-admin.mgmotors.com.pk
+autodiscover.mgmotors.com.pk
+mgmotors.com.pk
+www.mgmotors.com.pk

@@ -1,0 +1,14 @@
+autodiscover.phl.net.pk
+cpanel.phl.net.pk
+cpcalendars.phl.net.pk
+cpcontacts.phl.net.pk
+c.phl.net.pk
+dc-df825f6402fc.phl.net.pk
+ftp.phl.net.pk
+mail.phl.net.pk
+ns.phl.net.pk
+phl.net.pk
+webdisk.phl.net.pk
+webmail.phl.net.pk
+whm.phl.net.pk
+www.phl.net.pk

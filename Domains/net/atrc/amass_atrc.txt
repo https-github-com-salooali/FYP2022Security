@@ -1,0 +1,13 @@
+atrc.net.pk
+smtp.atrc.net.pk
+isatap.wifi.ae.atrc.net.pk
+dns1.atrc.net.pk
+vps.atrc.net.pk
+mx.atrc.net.pk
+ca29.wifi.ae.atrc.net.pk
+wifi.ae.atrc.net.pk
+www.atrc.net.pk
+backup.atrc.net.pk
+mail.atrc.net.pk
+web.atrc.net.pk
+dns2.atrc.net.pk

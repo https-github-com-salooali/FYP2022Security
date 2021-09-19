@@ -1,0 +1,14 @@
+admission.fuuastisb.edu.pk
+alwifaq.fuuastisb.edu.pk
+ftp.admission.fuuastisb.edu.pk
+ftp.fuuastisb.edu.pk
+fuuastisb.edu.pk
+innovatia19.fuuastisb.edu.pk
+lists.fuuastisb.edu.pk
+mail.admission.fuuastisb.edu.pk
+mail.fuuastisb.edu.pk
+mssql.fuuastisb.edu.pk
+ns.fuuastisb.edu.pk
+webmail.fuuastisb.edu.pk
+www.admission.fuuastisb.edu.pk
+www.fuuastisb.edu.pk

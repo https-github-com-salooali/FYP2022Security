@@ -1,0 +1,11 @@
+ns1.cert.icd.org.pk
+ns2.cert.icd.org.pk
+ns1.icd.org.pk
+ns2.icd.org.pk
+mail.icd.org.pk
+ns.icd.org.pk
+webmail.icd.org.pk
+icd.org.pk
+store.icd.org.pk
+www.icd.org.pk
+cert.icd.org.pk

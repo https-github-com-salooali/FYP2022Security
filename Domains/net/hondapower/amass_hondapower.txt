@@ -1,0 +1,12 @@
+webmail.hondapower.net.pk
+cpcalendars.hondapower.net.pk
+cpanel.hondapower.net.pk
+webdisk.hondapower.net.pk
+mail.hondapower.net.pk
+autodiscover.hondapower.net.pk
+cpcontacts.hondapower.net.pk
+www.hondapower.net.pk
+ftp.hondapower.net.pk
+autoconfig.hondapower.net.pk
+hondapower.net.pk
+whm.hondapower.net.pk

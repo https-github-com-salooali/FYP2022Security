@@ -1,0 +1,5 @@
+mail.pico.org.pk
+pico.org.pk
+covid19.pico.org.pk
+www.pico.org.pk
+ftp.pico.org.pk

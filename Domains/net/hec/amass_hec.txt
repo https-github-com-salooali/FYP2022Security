@@ -1,0 +1,11 @@
+ftp.hec.net.pk
+hec.net.pk
+autodiscover.hec.net.pk
+webdisk.hec.net.pk
+webmail.hec.net.pk
+www.hec.net.pk
+cpanel.hec.net.pk
+cpcalendars.hec.net.pk
+cpcontacts.hec.net.pk
+mail.hec.net.pk
+autoconfig.hec.net.pk

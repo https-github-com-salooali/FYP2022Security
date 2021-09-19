@@ -1,0 +1,12 @@
+autodiscover.agkhyberpakhtunkhwa.gov.pk
+webdisk.agkhyberpakhtunkhwa.gov.pk
+ftp.agkhyberpakhtunkhwa.gov.pk
+cpanel.agkhyberpakhtunkhwa.gov.pk
+webmail.agkhyberpakhtunkhwa.gov.pk
+www.agkhyberpakhtunkhwa.gov.pk
+mail.agkhyberpakhtunkhwa.gov.pk
+localhost.agkhyberpakhtunkhwa.gov.pk
+cpcalendars.agkhyberpakhtunkhwa.gov.pk
+autoconfig.agkhyberpakhtunkhwa.gov.pk
+whm.agkhyberpakhtunkhwa.gov.pk
+cpcontacts.agkhyberpakhtunkhwa.gov.pk

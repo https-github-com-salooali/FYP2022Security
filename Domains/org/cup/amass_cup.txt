@@ -1,0 +1,7 @@
+cup.org.pk
+www.cup.org.pk
+ftp.cup.org.pk
+mailbox.cup.org.pk
+smtp.cup.org.pk
+mail.cup.org.pk
+admin.cup.org.pk

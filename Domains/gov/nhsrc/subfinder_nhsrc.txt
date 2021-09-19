@@ -1,0 +1,15 @@
+app.nhsrc.gov.pk
+sehatexpress.nhsrc.gov.pk
+mail.nhsrc.gov.pk
+www.nhsrc.gov.pk
+email.nhsrc.gov.pk
+cms.test.nhsrc.gov.pk
+telemed.sehatexpress.nhsrc.gov.pk
+test.nhsrc.gov.pk
+corona.nhsrc.gov.pk
+telemd.sehatexpress.nhsrc.gov.pk
+webmail.nhsrc.gov.pk
+cms.nhsrc.gov.pk
+wecare.nhsrc.gov.pk
+fts.nhsrc.gov.pk
+www.wecare.nhsrc.gov.pk

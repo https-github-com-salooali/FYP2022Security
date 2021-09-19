@@ -1,0 +1,15 @@
+mail.speedtest.net.pk
+www.speedtest.net.pk
+ns6.speedtest.net.pk
+autodiscover.speedtest.net.pk
+dc-c0b2b4934a99.speedtest.net.pk
+cpanel.speedtest.net.pk
+webdisk.speedtest.net.pk
+ns16.speedtest.net.pk
+ns17.speedtest.net.pk
+ns5.speedtest.net.pk
+webmail.speedtest.net.pk
+_dc-mx.7296834c05e2.speedtest.net.pk
+whm.speedtest.net.pk
+www.admin.speedtest.net.pk
+admin.speedtest.net.pk

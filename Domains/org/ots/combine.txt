@@ -1,0 +1,10 @@
+auth.ots.org.pk
+cpanel.ots.org.pk
+db558.ots.org.pk
+dc-28aea2fdb558.ots.org.pk
+dc-c7197d37.ots.org.pk
+ftp.ots.org.pk
+mail.ots.org.pk
+ots.org.pk
+webmail.ots.org.pk
+www.ots.org.pk

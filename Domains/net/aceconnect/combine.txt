@@ -1,0 +1,13 @@
+aceconnect.net.pk
+cpanel.aceconnect.net.pk
+cpcalendars.aceconnect.net.pk
+cpcontacts.aceconnect.net.pk
+ftp.aceconnect.net.pk
+mail.aceconnect.net.pk
+registration.aceconnect.net.pk
+verification.aceconnect.net.pk
+webdisk.aceconnect.net.pk
+webmail.aceconnect.net.pk
+whm.aceconnect.net.pk
+www.aceconnect.net.pk
+www.registration.aceconnect.net.pk

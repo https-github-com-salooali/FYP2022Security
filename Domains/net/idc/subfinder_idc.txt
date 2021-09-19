@@ -1,0 +1,8 @@
+www.idc.net.pk
+www.reports.idc.net.pk
+reports.idc.net.pk
+mail.idc.net.pk
+ftp.idc.net.pk
+localhost.idc.net.pk
+collection.idc.net.pk
+idc.net.pk

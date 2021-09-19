@@ -1,0 +1,11 @@
+autodiscover.ghpl.com.pk
+ftp.ghpl.com.pk
+ghpl.com.pk
+lists.ghpl.com.pk
+lyncdiscover.ghpl.com.pk
+mail.ghpl.com.pk
+moe.ghpl.com.pk
+mssql.ghpl.com.pk
+sip.ghpl.com.pk
+webmail.ghpl.com.pk
+www.ghpl.com.pk

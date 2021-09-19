@@ -1,0 +1,12 @@
+cloudsun-ns1.india.org.pk
+cpanel.india.org.pk
+cpcalendars.india.org.pk
+cpcontacts.india.org.pk
+ftp.india.org.pk
+india.org.pk
+mail.india.org.pk
+ns.india.org.pk
+webdisk.india.org.pk
+webmail.india.org.pk
+whm.india.org.pk
+www.india.org.pk

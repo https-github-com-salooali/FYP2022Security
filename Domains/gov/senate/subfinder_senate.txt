@@ -1,0 +1,12 @@
+library.senate.gov.pk
+publicpetition.senate.gov.pk
+www.newsletter.senate.gov.pk
+syndicate.senate.gov.pk
+newsletter.senate.gov.pk
+mail.senate.gov.pk
+www.publicpetition.senate.gov.pk
+sms.senate.gov.pk
+webmail.senate.gov.pk
+test.senate.gov.pk
+streaming.senate.gov.pk
+www.senate.gov.pk

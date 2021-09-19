@@ -1,0 +1,7 @@
+ftp.piler.org.pk
+webmail.piler.org.pk
+whm.piler.org.pk
+piler.org.pk
+www.piler.org.pk
+localhost.piler.org.pk
+webdisk.piler.org.pk

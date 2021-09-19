@@ -1,0 +1,16 @@
+ftp.zil.com.pk
+intranet.zil.com.pk
+mis.zil.com.pk
+webmail.zil.com.pk
+mail.zil.com.pk
+test.zil.com.pk
+vpn.zil.com.pk
+sndpro.zil.com.pk
+node.zil.com.pk
+zil.com.pk
+cloud.zil.com.pk
+dss.zil.com.pk
+snd.zil.com.pk
+www.zil.com.pk
+dev.zil.com.pk
+connect.zil.com.pk

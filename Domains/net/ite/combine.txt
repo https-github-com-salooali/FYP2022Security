@@ -1,0 +1,16 @@
+autoconfig.ite.net.pk
+autodiscover.ite.net.pk
+cpanel.ite.net.pk
+cpcalendars.ite.net.pk
+cpcontacts.ite.net.pk
+ftp.ite.net.pk
+imap.ite.net.pk
+ite.net.pk
+localhost.ite.net.pk
+mail.ite.net.pk
+pop.ite.net.pk
+smtp.ite.net.pk
+webdisk.ite.net.pk
+webmail.ite.net.pk
+whm.ite.net.pk
+www.ite.net.pk

@@ -1,0 +1,9 @@
+webdisk.edoctor.net.pk
+cpanel.edoctor.net.pk
+webmail.edoctor.net.pk
+www.edoctor.net.pk
+edoctor.net.pk
+mail.edoctor.net.pk
+cpcontacts.edoctor.net.pk
+cpcalendars.edoctor.net.pk
+ftp.edoctor.net.pk

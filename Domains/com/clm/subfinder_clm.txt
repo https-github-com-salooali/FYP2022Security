@@ -1,0 +1,10 @@
+www.clm.com.pk
+clm.com.pk
+imap.clm.com.pk
+secure.clm.com.pk
+smtp.clm.com.pk
+pop3.clm.com.pk
+ftp.clm.com.pk
+pop.clm.com.pk
+ns.clm.com.pk
+mail.clm.com.pk

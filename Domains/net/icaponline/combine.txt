@@ -1,0 +1,9 @@
+apps.icaponline.net.pk
+ftp.icaponline.net.pk
+icaponline.net.pk
+ipv4.icaponline.net.pk
+lists.icaponline.net.pk
+mail.icaponline.net.pk
+mssql.icaponline.net.pk
+webmail.icaponline.net.pk
+www.icaponline.net.pk

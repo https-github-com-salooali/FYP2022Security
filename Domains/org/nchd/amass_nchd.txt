@@ -1,0 +1,11 @@
+nchd.org.pk
+www.nchd.org.pk
+mail.nchd.org.pk
+mail2.nchd.org.pk
+smtp.nchd.org.pk
+soan.nchd.org.pk
+narung.nchd.org.pk
+www.jobs.nchd.org.pk
+pop.nchd.org.pk
+ftp.nchd.org.pk
+kurung.nchd.org.pk

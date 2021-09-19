@@ -1,0 +1,10 @@
+mailbox.cup.org.pk
+mail.cup.org.pk
+whm.cup.org.pk
+webdisk.cup.org.pk
+ftp.cup.org.pk
+smtp.cup.org.pk
+www.cup.org.pk
+admin.cup.org.pk
+demo.cup.org.pk
+cpanel.cup.org.pk

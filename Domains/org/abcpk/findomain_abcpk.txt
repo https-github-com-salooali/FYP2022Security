@@ -1,0 +1,17 @@
+www.staging.abcpk.org.pk
+autodiscover.abcpk.org.pk
+cpanel.abcpk.org.pk
+staging.abcpk.org.pk
+cpcontacts.abcpk.org.pk
+cpanel.staging.abcpk.org.pk
+ftp.abcpk.org.pk
+cpcalendars.abcpk.org.pk
+webdisk.staging.abcpk.org.pk
+webdisk.abcpk.org.pk
+www.abcpk.org.pk
+mail.abcpk.org.pk
+abcpk.org.pk
+webmail.abcpk.org.pk
+cpcalendars.staging.abcpk.org.pk
+whm.abcpk.org.pk
+webmail.staging.abcpk.org.pk

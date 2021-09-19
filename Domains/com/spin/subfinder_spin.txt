@@ -1,0 +1,10 @@
+cpcalendars.spin.com.pk
+autodiscover.spin.com.pk
+mail.spin.com.pk
+webdisk.spin.com.pk
+www.spin.com.pk
+cpcontacts.spin.com.pk
+cpanel.spin.com.pk
+webmail.spin.com.pk
+ftp.spin.com.pk
+whm.spin.com.pk

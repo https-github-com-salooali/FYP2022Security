@@ -1,0 +1,12 @@
+mail.camp.org.pk
+ftp.camp.org.pk
+webdisk.camp.org.pk
+www.camp.org.pk
+autodiscover.camp.org.pk
+www.hr.camp.org.pk
+hr.camp.org.pk
+autoconfig.camp.org.pk
+cpanel.hr.camp.org.pk
+camp.org.pk
+cpanel.camp.org.pk
+webmail.camp.org.pk

@@ -1,0 +1,10 @@
+test1.oec.gov.pk
+ftp.oec.gov.pk
+jobs.oec.gov.pk
+arabic.oec.gov.pk
+filesflow.oec.gov.pk
+www.jobs.oec.gov.pk
+forum.oec.gov.pk
+mail.oec.gov.pk
+test.oec.gov.pk
+www.oec.gov.pk

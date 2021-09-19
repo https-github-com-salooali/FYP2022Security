@@ -1,0 +1,120 @@
+resolvers:
+    - 1.1.1.1:53
+    - 1.0.0.1:53
+    - 8.8.8.8:53
+    - 8.8.4.4:53
+    - 9.9.9.9:53
+    - 9.9.9.10:53
+    - 77.88.8.8:53
+    - 77.88.8.1:53
+    - 208.67.222.222:53
+    - 208.67.220.220:53
+sources:
+    - alienvault
+    - anubis
+    - bufferover
+    - certspotter
+    - censys
+    - chaos
+    - crtsh
+    - dnsdumpster
+    - hackertarget
+    - intelx
+    - passivetotal
+    - robtex
+    - riddler
+    - securitytrails
+    - shodan
+    - spyse
+    - sublist3r
+    - threatcrowd
+    - threatminer
+    - virustotal
+all-sources:
+    - alienvault
+    - anubis
+    - archiveis
+    - binaryedge
+    - bufferover
+    - censys
+    - certspotter
+    - chaos
+    - commoncrawl
+    - crtsh
+    - dnsdumpster
+    - dnsdb
+    - github
+    - hackertarget
+    - intelx
+    - passivetotal
+    - rapiddns
+    - riddler
+    - recon
+    - robtex
+    - securitytrails
+    - shodan
+    - sitedossier
+    - sonarsearch
+    - spyse
+    - sublist3r
+    - threatbook
+    - threatcrowd
+    - threatminer
+    - virustotal
+    - waybackarchive
+    - zoomeye
+recursive:
+    - alienvault
+    - binaryedge
+    - bufferover
+    - certspotter
+    - crtsh
+    - dnsdumpster
+    - hackertarget
+    - passivetotal
+    - securitytrails
+    - sonarsearch
+    - sublist3r
+    - virustotal
+binaryedge: 
+    - b1be71a0-8503-4376-aba8-0cfc6ae5f1c9
+censys:
+    - 67a88ca5-fd2b-4a0c-b861-a692b3a719d2:t4mxfUFdRy2f8OttKLReNcMOtKC1y6BY
+certspotter: 
+    - 40710_AVeSlZ9slzhg5AZWPdf0
+chaos: []
+dnsdb: []
+github: 
+    - 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
+    - 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
+intelx: 
+    - cf67760f-c902-4f4a-a3f4-30ac36eacce5
+passivetotal: 
+    - abdullah2018@namal.edu.pk:f3b231ac0bc1fb8d41da24641d001a277e7b3cdc1e65a5e0d6eb65bf21cc29fe
+recon: 
+    - free-4abf9746-f4e0-4cbd-8f88-1e50d190a927
+robtex: []
+securitytrails: 
+    - 44YocdhgDKpX0TKCuGntyUqkJLuGkVmm
+    - nRSNSVWk2hmSu4JQ7b4jG57PVbDHJSJl
+    - bwaWNsFg4HnshUycCFPyJJ8r0BvYAgak
+    - TU3jJ33e3MyNdvKXyz9h4R3OUiqHjM6E
+    - 84QSwqiePOudblS2TS7JH9mt9xvsJs8R
+    - pbswXCxPHipL9A1o3gRR2fViKYAy3Coc
+    - bUSnzIacila4OS0m3YyZWHwLnicM4N9L
+    - Id6hvmfpRX3dq8kBElApCcKsOjnVXuk3
+    - m4QN2NmT0TAlQu8PQdZbJ8g6DV7XJhQM
+    - 5JPEUJCuMlx2IkctWejPahshd0VA6FSP
+shodan: 
+    - 4yA1Ueqg4rOHbvWcHvTtG4mVjYbhRBJn
+   
+spyse: 
+    - 710708d3-38e1-4660-a452-c571e3f2b45d
+threatbook: []
+urlscan: 
+    - 20842a06-048b-4255-b61c-cf353a0c9a2f
+virustotal: 
+    - 57990dab127ce685ea7ec410592ad6681bdd194fbfab09501fee0b0aa94c4037
+zoomeye: 
+    - 5B30CC20-3460-10A76-7e06-507b5b4ae97
+subfinder-version: 2.4.8

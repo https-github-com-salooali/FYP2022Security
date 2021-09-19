@@ -1,0 +1,10 @@
+cpanel.password.com.pk
+cpcalendars.password.com.pk
+cpcontacts.password.com.pk
+ftp.password.com.pk
+mail.password.com.pk
+password.com.pk
+webdisk.password.com.pk
+webmail.password.com.pk
+whm.password.com.pk
+www.password.com.pk

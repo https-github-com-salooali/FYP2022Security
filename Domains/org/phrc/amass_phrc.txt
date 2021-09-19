@@ -1,0 +1,6 @@
+phrc.org.pk
+webdisk.phrc.org.pk
+cpanel.phrc.org.pk
+mail.phrc.org.pk
+webmail.phrc.org.pk
+www.phrc.org.pk

@@ -1,0 +1,15 @@
+mail.agp.com.pk
+cpanel.agp.com.pk
+portal.agp.com.pk
+www.agp.com.pk
+dashboard.agp.com.pk
+beta.agp.com.pk
+www.beta.agp.com.pk
+cpcalendars.agp.com.pk
+agp.com.pk
+cpcontacts.agp.com.pk
+webdisk.agp.com.pk
+mrep.agp.com.pk
+crm.agp.com.pk
+webmail.agp.com.pk
+mail2.agp.com.pk

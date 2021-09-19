@@ -1,0 +1,17 @@
+mailenable.packages.com.pk
+autodiscover.packages.com.pk
+welcome1.packages.com.pk
+webmail.packages.com.pk
+backup-mx1.packages.com.pk
+mailserver.packages.com.pk
+rotoeye.packages.com.pk
+packages.com.pk
+prepress.packages.com.pk
+mailer.packages.com.pk
+mail.packages.com.pk
+smtp-gw.packages.com.pk
+packmail.packages.com.pk
+www.packages.com.pk
+webadmin.packages.com.pk
+welcome.packages.com.pk
+email.packages.com.pk

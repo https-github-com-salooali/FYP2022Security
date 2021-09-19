@@ -1,0 +1,17 @@
+aviation.pac.org.pk
+careers.pac.org.pk
+cpanel.m.pac.org.pk
+demo.pac.org.pk
+ftp.pac.org.pk
+lcs.pac.org.pk
+lists.pac.org.pk
+mail2.pac.org.pk
+mail.m.pac.org.pk
+mail.pac.org.pk
+m.pac.org.pk
+mssql.pac.org.pk
+pac.org.pk
+webdisk.m.pac.org.pk
+webmail.m.pac.org.pk
+webmail.pac.org.pk
+www.pac.org.pk

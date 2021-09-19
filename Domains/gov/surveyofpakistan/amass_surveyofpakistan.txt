@@ -1,0 +1,7 @@
+surveyofpakistan.gov.pk
+www.surveyofpakistan.gov.pk
+mail.surveyofpakistan.gov.pk
+webmail.surveyofpakistan.gov.pk
+cms.test.surveyofpakistan.gov.pk
+test.surveyofpakistan.gov.pk
+cms.surveyofpakistan.gov.pk

@@ -1,0 +1,12 @@
+backup-mx1.bullehshah.com.pk
+bsp-welcome.bullehshah.com.pk
+bullehshah.com.pk
+ftp.bullehshah.com.pk
+ipv4.bullehshah.com.pk
+mail.bullehshah.com.pk
+mssql.bullehshah.com.pk
+ns.bullehshah.com.pk
+webmail.bullehshah.com.pk
+welcome.bullehshah.com.pk
+www.bullehshah.com.pk
+www.welcome.bullehshah.com.pk

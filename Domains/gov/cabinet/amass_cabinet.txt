@@ -1,0 +1,9 @@
+cabinet.gov.pk
+mdm.cabinet.gov.pk
+webmail.cabinet.gov.pk
+www.cabinet.gov.pk
+cms.cabinet.gov.pk
+mail.cabinet.gov.pk
+tts.cabinet.gov.pk
+storage.cabinet.gov.pk
+portal.cabinet.gov.pk

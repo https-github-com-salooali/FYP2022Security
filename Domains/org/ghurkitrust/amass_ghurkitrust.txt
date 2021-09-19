@@ -1,0 +1,13 @@
+mailsrvr.ghurkitrust.org.pk
+webmail.ghurkitrust.org.pk
+ghurkitrust.org.pk
+77.mailsrvr.ghurkitrust.org.pk
+78.mailsrvr.ghurkitrust.org.pk
+mail.ghurkitrust.org.pk
+webdisk.ghurkitrust.org.pk
+cpcontacts.ghurkitrust.org.pk
+ftp.ghurkitrust.org.pk
+www.ghurkitrust.org.pk
+reports.ghurkitrust.org.pk
+cpanel.ghurkitrust.org.pk
+cpcalendars.ghurkitrust.org.pk

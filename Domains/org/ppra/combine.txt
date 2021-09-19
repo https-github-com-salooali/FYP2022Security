@@ -1,0 +1,8 @@
+ftp.ppra.org.pk
+lists.ppra.org.pk
+local.ppra.org.pk
+mail.ppra.org.pk
+plesk.ppra.org.pk
+ppra.org.pk
+webmail.ppra.org.pk
+www.ppra.org.pk

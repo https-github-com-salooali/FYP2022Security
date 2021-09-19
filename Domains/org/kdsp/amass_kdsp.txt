@@ -1,0 +1,13 @@
+ftp.kdsp.org.pk
+mail.kdsp.org.pk
+shop.kdsp.org.pk
+www.shop.kdsp.org.pk
+autodiscover.kdsp.org.pk
+www.kdsp.org.pk
+cpcontacts.kdsp.org.pk
+localhost.kdsp.org.pk
+kdsp.org.pk
+webdisk.kdsp.org.pk
+cpanel.kdsp.org.pk
+webmail.kdsp.org.pk
+cpcalendars.kdsp.org.pk

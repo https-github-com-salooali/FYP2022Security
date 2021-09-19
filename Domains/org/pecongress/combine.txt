@@ -1,0 +1,16 @@
+admin.pecongress.org.pk
+autoconfig.pecongress.org.pk
+autodiscover.pecongress.org.pk
+cpanel.pecongress.org.pk
+cpcalendars.pecongress.org.pk
+cpcontacts.pecongress.org.pk
+ftp.pecongress.org.pk
+mail.pecongress.org.pk
+ns1.pecongress.org.pk
+ns2.pecongress.org.pk
+pecongress.org.pk
+smtp.pecongress.org.pk
+webdisk.pecongress.org.pk
+webmail.pecongress.org.pk
+whm.pecongress.org.pk
+www.pecongress.org.pk
