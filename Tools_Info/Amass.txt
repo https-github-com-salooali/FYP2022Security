@@ -1,0 +1,15 @@
+=============================Installation========================
+sudo snap install amass (For this, you must have installed snapd)
+export PATH=$PATH:/snap/bin (Add bin directory to your path -- sometimes necessary)
+Link: https://github.com/OWASP/Amass/blob/master/doc/install.md
+
+============================Command Used=========================
+amass enum -passive -d "URL" -o "path/file_name.txt"
+--help
+"passive" for only dns enumeration, -o for output file path, -d to read the adjacent urls
+Link: https://github.com/OWASP/Amass/blob/master/doc/user_guide.md
+
+==========================API's configuration====================
+File to make and adding api's to it : https://github.com/OWASP/Amass/blob/master/examples/config.ini
+Putting that config file on path: "~/.config/amass/config.ini"
+Running this command: amass enum -list -config ~/.config/amass/config.ini

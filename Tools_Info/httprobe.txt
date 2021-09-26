@@ -1,0 +1,8 @@
+=====================Installation====================
+clone this git directory: https://github.com/tomnomnom/httprobe.git
+build the main.go in folder using golang (for this, you must have installed golang)
+"go build main.go"
+"mv main httpprobe"
+"mv httprobe /bin"
+=====================Commands========================
+cat "Subdomains_file" | httprobe > output_fileName.txt
