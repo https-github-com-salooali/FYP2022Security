@@ -1,0 +1,27 @@
+=========EyeWitness Tool =================== 
+EyeWitness is designed to take screenshots of websites provide some server header info, and identify default credentials if known.
+
+============INSTALLATION====================
+1.Clone or download the directory from the given link:
+https://github.com/FortyNorthSecurity/EyeWitness
+
+2. Extract the file and navigate to the file:
+Python/setup
+
+3. Run the  setup.sh script
+sudo ./setup.sh
+
+4.It will get installed
+
+
+===========OR========================
+As it is supported by kali linux we can also install it using a command
+1.sudo apt-get install eyewitness
+2.once it get installed you can check it by:
+	cmd:eyewitness -h
+
+
+============== Commands====================
+1. ./EyeWitness.py --single www.namal.edu.pk     // for one url 
+   It will create a new folder in the directory.
+2. ./EyeWitness.py  -f target.txt --timeout 50
