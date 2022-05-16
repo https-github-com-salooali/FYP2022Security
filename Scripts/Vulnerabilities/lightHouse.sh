@@ -1,18 +1,23 @@
 #/bin/bash    
 
-filename='assets.txt'
-filename2='https://'
-filename4='http://'
+filename=''
 
 mkdir lighthouse
 
+# For lightHouse Installation
+read -p "Do you want to install LightHouse $foo? [y or n]" answer
+if [[ $answer = y || $answer = Y ]] ; then
+  sudo npm install -g lighthouse
+fi
+
+# File read
+read -p 'Input file name: ' filename
+
+
+# For Vuln. Js lib
 n=1
 while read line; do
 # reading each line
-
-
-
-line=${line::-1}
 echo "$line"
 if timeout 15 wget --spider https://$line 2>/dev/null; then
   echo "https is present"

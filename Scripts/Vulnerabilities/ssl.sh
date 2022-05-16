@@ -1,9 +1,12 @@
 #/bin/bash    
-filename='tls_enabled.txt'
+filename=''
 n=1
+
+# File read
+read -p 'Input file name: ' filename
+
 while read line; do
 # reading each line
-line=${line::-1}
 echo "$line"
 if timeout 15 wget --spider https://$line 2>/dev/null; then
   echo "https is present"

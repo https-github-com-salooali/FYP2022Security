@@ -1,16 +1,24 @@
 #!/bin/bash
-filename='org_domain.txt'
-filename1='.txt'
-filename2='amass_'
+filename='domain.txt'
 
-mkdir org
 
+# For Amass Installation
+read -p "Do you want to install Amass $foo? [y or n]" answer
+if [[ $answer = y || $answer = Y ]] ; then
+  sudo snap install amass
+fi
+
+
+read -p 'Input file name: ' filename
+
+
+# For Enumeration
 n=1
 while read line; do
 # reading each line
+
 SUBSTRING=$(echo $line| cut -d'.' -f 1)
-mkdir org/"${SUBSTRING}"
-amass enum -passive -d "$line" -o org/"${SUBSTRING}"/"${filename2}${SUBSTRING}${filename1}" 
+amass enum -passive -d "$line" -o ${SUBSTRING}.txt
 
 n=$((n+1))
 done < $filename

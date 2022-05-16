@@ -2,12 +2,23 @@
 from bs4 import BeautifulSoup
 import requests
 from PIL import Image
+import os
+import os.path
 
-with open('subdomains.txt') as f:
+file_exists = os.path.exists('grades')
+
+if file_exists == False:
+    os.mkdir('grades') 
+
+
+file_name = input("Input File Name:\n")
+
+
+with open(file_name) as f:
     dom = f.readlines()
 missing = ""
 grade = "Dummy"
-file1 = open('out6.csv','w')
+file1 = open('output.csv','w')
 
 for site in dom:
 	url="https://securityheaders.com/?q="+site+"&hide=on&followRedirects=on"
@@ -15,7 +26,7 @@ for site in dom:
 
 	# Make a GET request to fetch the raw HTML content
 	html_content = requests.get(url).text
-	print(html_content)
+	print("processing...")
 
 	# Parse the html content
 	soup = BeautifulSoup(html_content, "lxml")

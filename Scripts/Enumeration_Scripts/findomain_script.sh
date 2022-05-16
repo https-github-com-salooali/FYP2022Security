@@ -1,19 +1,15 @@
 #!/bin/bash
-filename='net_domain.txt'
-filename1='.txt'
-filename2='findomain_'
-mkdir net
+filename='domain.txt'
 
+read -p 'Input file name: ' filename
+
+# For Enumeration
 n=1
 while read line; do
 # reading each line
+
 SUBSTRING=$(echo $line| cut -d'.' -f 1)
-echo "$SUBSTRING"
-mkdir net/"${SUBSTRING}"
-findomain -t "$line" -u  net/"${SUBSTRING}"/"${filename2}${SUBSTRING}${filename1}"
-
-
-
+findomain -t "$line" -u  ${SUBSTRING}.txt
 
 n=$((n+1))
 done < $filename
